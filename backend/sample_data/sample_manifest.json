@@ -1,0 +1,46 @@
+{
+  "sample_linear_regression.csv": {
+    "rows": 6000,
+    "columns": [
+      "size_sqft",
+      "bedrooms",
+      "bathrooms",
+      "age_years",
+      "distance_to_center_km",
+      "school_score",
+      "garage_spaces",
+      "neighbourhood",
+      "price"
+    ],
+    "target": "price"
+  },
+  "sample_nonlinear_regression.csv": {
+    "rows": 6000,
+    "columns": [
+      "temperature_c",
+      "humidity_pct",
+      "hour_of_day",
+      "day_of_week",
+      "industrial_load_mw",
+      "solar_output_mw",
+      "energy_demand_mw"
+    ],
+    "target": "energy_demand_mw"
+  },
+  "sample_classification.csv": {
+    "rows": 6025,
+    "columns": [
+      "tenure_months",
+      "monthly_charges",
+      "total_charges",
+      "support_tickets",
+      "usage_gb",
+      "contract_type",
+      "payment_method",
+      "tech_support_level",
+      "is_senior",
+      "churn"
+    ],
+    "target": "churn"
+  }
+}

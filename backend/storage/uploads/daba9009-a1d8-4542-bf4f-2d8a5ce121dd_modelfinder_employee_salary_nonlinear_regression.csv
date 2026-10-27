@@ -1,0 +1,1201 @@
+age,years_experience,education,industry,city,technical_skill_score,projects_completed,weekly_work_hours,remote_work,certifications,annual_salary_inr
+54,33,Master,Manufacturing,Hyderabad,9.0,0,48.5,No,1,95139
+67,45,Bachelor,Healthcare,Mumbai,10.0,1,60.5,Yes,4,226467
+28,4,Master,IT,Hyderabad,2.0,6,53.2,Yes,3,86431
+66,40,High School,Finance,Hyderabad,8.0,3,58.5,Yes,2,126250
+48,29,High School,Finance,Delhi,4.0,5,29.9,Yes,4,97847
+19,0,Bachelor,Finance,Pune,7.0,3,55.8,No,3,75326
+18,0,High School,Finance,Delhi,4.0,5,31.1,Yes,1,49195
+40,22,Bachelor,Manufacturing,Delhi,1.0,6,40.4,No,2,88523
+64,40,Bachelor,Finance,Hyderabad,8.0,5,39.7,No,3,178764
+37,17,Bachelor,Manufacturing,Bengaluru,10.0,4,41.7,No,1,125787
+38,18,Bachelor,Manufacturing,Pune,8.0,2,38.1,Yes,2,122878
+25,0,High School,Healthcare,Mumbai,10.0,3,59.6,Yes,2,68644
+49,25,PhD,Manufacturing,Bengaluru,3.0,5,42.5,No,2,78092
+29,8,Bachelor,Healthcare,Mumbai,9.0,5,48.5,No,2,125287
+54,31,High School,Retail,Mumbai,1.0,8,40.5,Yes,4,90902
+35,16,Master,Healthcare,Mumbai,5.0,9,51.0,Yes,4,108104
+49,23,High School,Healthcare,Hyderabad,1.0,1,36.6,Yes,1,68768
+32,8,Bachelor,Retail,Delhi,,6,43.7,Yes,3,29360
+53,28,Bachelor,Finance,Mumbai,3.0,3,47.3,Yes,3,139247
+28,5,Master,Retail,Mumbai,7.0,9,57.7,Yes,5,131665
+52,33,Master,Finance,Hyderabad,8.0,6,46.2,Yes,1,175054
+42,23,Bachelor,Finance,Delhi,1.0,0,39.2,No,2,69917
+48,25,High School,Retail,Hyderabad,8.0,2,,Yes,3,123309
+30,8,Bachelor,IT,Hyderabad,2.0,2,42.5,Yes,2,61960
+24,0,Master,Finance,Mumbai,7.0,3,42.0,Yes,2,70089
+25,3,High School,Finance,Pune,3.0,3,43.5,No,2,68602
+55,36,High School,IT,Hyderabad,8.0,4,41.4,Yes,1,156791
+59,39,PhD,IT,Bengaluru,10.0,2,38.5,No,2,188466
+20,0,Bachelor,Finance,Bengaluru,1.0,7,32.4,Yes,0,56838
+61,42,Master,Retail,Pune,8.0,2,34.0,Yes,3,158253
+36,18,Bachelor,IT,Delhi,8.0,4,42.7,Yes,2,108901
+58,35,Bachelor,IT,Delhi,3.0,3,49.4,No,2,149543
+41,18,Master,IT,Hyderabad,9.0,2,39.9,Yes,2,117068
+24,5,Bachelor,Retail,Bengaluru,5.0,6,41.5,Yes,2,34357
+47,21,Bachelor,Manufacturing,Hyderabad,10.0,6,48.7,No,3,143368
+19,1,Bachelor,Retail,Delhi,7.0,2,46.4,Yes,1,45680
+54,33,Bachelor,Healthcare,Mumbai,3.0,5,43.0,Yes,1,124673
+54,34,Master,Manufacturing,Delhi,3.0,3,36.8,Yes,2,122526
+23,0,Master,Retail,Bengaluru,1.0,5,41.8,No,2,40535
+46,21,Master,Retail,Pune,2.0,5,42.7,No,3,84768
+55,33,High School,IT,Mumbai,3.0,3,57.5,No,1,140575
+34,14,High School,IT,Bengaluru,9.0,1,48.9,Yes,0,79766
+30,7,Bachelor,Healthcare,Bengaluru,1.0,3,59.3,No,4,73599
+36,13,Master,Manufacturing,Bengaluru,6.0,2,38.9,Yes,3,80600
+56,33,High School,Finance,Mumbai,,4,41.2,Yes,2,140026
+24,0,Master,Manufacturing,Pune,7.0,7,38.7,No,2,55956
+51,32,Bachelor,Manufacturing,Hyderabad,8.0,8,34.1,Yes,7,173580
+65,41,Bachelor,IT,Bengaluru,9.0,1,34.3,Yes,0,161824
+47,23,Bachelor,Healthcare,Pune,9.0,5,44.9,No,1,116335
+35,14,Master,Manufacturing,Pune,7.0,5,44.5,Yes,1,88110
+33,10,Bachelor,IT,Pune,7.0,6,33.1,Yes,1,72814
+20,1,High School,Finance,Bengaluru,6.0,4,40.5,Yes,4,56120
+48,26,Bachelor,Retail,Mumbai,2.0,3,38.4,Yes,2,77271
+63,37,Master,IT,Delhi,2.0,4,38.4,No,2,98898
+52,27,Master,Retail,Hyderabad,6.0,7,57.6,Yes,4,111607
+37,15,Bachelor,Retail,Hyderabad,6.0,4,52.1,Yes,3,90235
+33,7,Bachelor,Healthcare,Bengaluru,7.0,3,39.2,No,3,114520
+50,28,Bachelor,Manufacturing,Hyderabad,7.0,6,42.6,No,1,131039
+19,0,Bachelor,Retail,Hyderabad,1.0,4,25.0,Yes,1,61605
+43,19,High School,Manufacturing,Delhi,2.0,4,54.1,Yes,0,79008
+37,14,Master,Healthcare,Delhi,1.0,1,33.5,No,4,81558
+32,10,Bachelor,Retail,Delhi,1.0,5,42.5,No,2,48286
+21,0,Bachelor,Manufacturing,Hyderabad,2.0,2,51.1,No,2,62402
+54,35,High School,Finance,Pune,10.0,4,28.9,Yes,0,144977
+59,37,High School,Finance,Delhi,7.0,5,45.9,No,2,132840
+42,21,High School,Manufacturing,Delhi,8.0,1,,Yes,0,114788
+63,37,,Manufacturing,Pune,1.0,4,51.2,Yes,1,84705
+51,33,PhD,Finance,Pune,10.0,2,48.8,No,2,158566
+48,27,Bachelor,Manufacturing,Hyderabad,4.0,3,39.5,No,0,92674
+61,36,Master,Healthcare,Pune,3.0,3,29.2,No,4,122516
+33,10,PhD,IT,Hyderabad,2.0,1,39.9,No,4,79553
+60,36,PhD,IT,Bengaluru,2.0,3,33.7,No,0,127650
+39,16,Bachelor,Manufacturing,Pune,10.0,3,45.4,No,1,76482
+67,45,Bachelor,Finance,Delhi,6.0,4,32.9,Yes,4,144491
+43,17,Bachelor,Healthcare,Hyderabad,5.0,10,46.9,No,2,110387
+28,2,Bachelor,Finance,Bengaluru,7.0,5,40.3,No,1,62725
+18,0,Bachelor,IT,Delhi,6.0,6,57.3,No,3,68621
+46,23,Bachelor,IT,Mumbai,3.0,7,48.9,No,5,99814
+18,0,Bachelor,Retail,Bengaluru,4.0,3,42.6,Yes,0,45056
+35,17,Master,IT,Bengaluru,9.0,3,47.0,No,3,130311
+22,2,Bachelor,Retail,Pune,2.0,5,31.7,No,2,53599
+52,31,Bachelor,Manufacturing,Bengaluru,10.0,1,43.6,No,4,119068
+18,0,Master,Healthcare,Delhi,2.0,3,33.2,No,2,60454
+43,17,Bachelor,Finance,Pune,10.0,6,41.7,No,3,120036
+27,6,Bachelor,Healthcare,Hyderabad,10.0,4,37.4,Yes,2,56366
+62,37,Master,IT,Delhi,8.0,2,47.9,Yes,2,152117
+34,15,Bachelor,Manufacturing,Pune,10.0,2,33.9,No,1,64657
+63,37,PhD,Manufacturing,Mumbai,9.0,5,34.0,No,5,168554
+53,31,High School,IT,Pune,1.0,2,42.5,No,2,64630
+58,40,Bachelor,Healthcare,Mumbai,1.0,2,48.4,Yes,1,89190
+41,16,High School,Manufacturing,Delhi,4.0,3,41.9,No,1,58746
+28,6,Bachelor,Finance,Pune,7.0,3,37.5,No,2,50530
+30,12,Master,IT,Mumbai,3.0,2,39.6,Yes,2,93873
+18,0,Bachelor,Finance,Mumbai,9.0,1,41.0,No,2,65659
+56,32,Bachelor,Manufacturing,Pune,8.0,4,43.0,No,1,134495
+42,18,Bachelor,Manufacturing,Pune,5.0,6,50.2,No,1,87935
+40,19,Bachelor,Manufacturing,Bengaluru,8.0,4,42.1,Yes,3,130479
+62,36,Bachelor,IT,Pune,3.0,5,43.3,No,1,104313
+32,10,Bachelor,Manufacturing,Bengaluru,2.0,6,49.1,Yes,4,91259
+65,45,Master,IT,Delhi,4.0,3,45.8,Yes,1,162439
+50,32,Bachelor,Manufacturing,Pune,4.0,3,45.5,No,0,85444
+20,2,Bachelor,Finance,Pune,7.0,4,56.9,No,0,87295
+38,20,Bachelor,Healthcare,Pune,10.0,4,47.5,Yes,2,116801
+58,32,Master,Healthcare,Mumbai,1.0,6,45.8,No,0,100606
+22,1,Bachelor,Manufacturing,Bengaluru,3.0,3,33.8,Yes,1,50541
+37,15,Master,Retail,Pune,2.0,5,48.1,No,5,76408
+40,21,Bachelor,Healthcare,Pune,1.0,4,58.3,Yes,3,102758
+67,42,Master,Healthcare,Delhi,7.0,4,49.5,Yes,4,170575
+62,36,Master,Finance,Bengaluru,7.0,5,47.5,No,1,186162
+20,0,PhD,Finance,Delhi,2.0,5,40.2,Yes,3,70950
+48,22,PhD,IT,Hyderabad,3.0,1,60.9,Yes,1,152470
+60,39,Bachelor,Finance,Bengaluru,3.0,4,53.3,No,2,138221
+36,18,Bachelor,Finance,Bengaluru,10.0,2,54.8,No,1,139855
+55,32,Bachelor,Finance,Pune,7.0,4,32.3,No,1,131657
+55,32,Master,Finance,Pune,1.0,7,38.6,Yes,3,100083
+34,8,Bachelor,Finance,Hyderabad,6.0,5,53.2,No,2,93379
+55,31,Bachelor,Finance,Bengaluru,3.0,0,45.7,No,3,103741
+54,30,Master,Finance,Mumbai,1.0,4,42.9,No,3,117139
+65,42,Bachelor,Manufacturing,Delhi,9.0,5,48.6,No,1,175676
+18,0,Bachelor,Healthcare,Mumbai,6.0,4,59.4,No,1,81407
+38,15,Bachelor,Finance,Bengaluru,9.0,5,46.8,Yes,1,109212
+66,45,Bachelor,Finance,Hyderabad,1.0,5,37.2,No,4,146328
+53,34,Master,Manufacturing,Mumbai,7.0,6,25.0,Yes,1,115467
+36,13,Bachelor,IT,Delhi,6.0,3,45.0,Yes,1,66227
+60,42,PhD,IT,Pune,5.0,5,42.0,Yes,5,130475
+60,37,Master,Retail,Pune,9.0,8,50.9,Yes,2,154626
+54,31,Master,Manufacturing,Hyderabad,5.0,2,45.6,Yes,1,98150
+33,7,Bachelor,Retail,Hyderabad,7.0,3,36.7,Yes,0,77156
+45,25,High School,Retail,Bengaluru,3.0,4,39.3,No,1,78095
+42,21,Bachelor,IT,Bengaluru,9.0,3,50.1,Yes,3,133662
+56,36,Bachelor,Manufacturing,Bengaluru,2.0,3,34.0,No,2,102937
+21,2,Master,Healthcare,Bengaluru,5.0,4,,No,2,68115
+21,0,PhD,Healthcare,Pune,6.0,3,47.0,No,2,91463
+46,21,Master,Healthcare,Bengaluru,4.0,0,30.4,No,2,77346
+30,5,Bachelor,Retail,Bengaluru,8.0,3,37.2,Yes,3,49182
+24,5,Bachelor,Retail,Hyderabad,9.0,3,46.4,Yes,4,55683
+25,0,Bachelor,IT,Pune,4.0,3,35.1,Yes,3,58637
+43,22,Bachelor,Healthcare,Bengaluru,6.0,5,59.6,No,1,130181
+48,22,Bachelor,Retail,Delhi,10.0,2,25.0,No,1,147191
+58,34,High School,Healthcare,Bengaluru,6.0,4,45.9,Yes,2,148410
+36,15,High School,Manufacturing,Mumbai,3.0,3,49.6,Yes,3,74682
+23,1,Bachelor,Healthcare,Hyderabad,2.0,6,43.8,No,2,34526
+41,17,Bachelor,Manufacturing,Delhi,2.0,7,40.2,No,3,73600
+21,0,Bachelor,Finance,Hyderabad,7.0,3,49.0,Yes,0,57884
+18,0,PhD,Finance,Hyderabad,9.0,5,47.0,No,1,93532
+35,13,Bachelor,Retail,Mumbai,1.0,1,32.2,Yes,4,83339
+60,37,Master,Manufacturing,Pune,8.0,4,28.3,No,1,129541
+63,40,Bachelor,Retail,Hyderabad,3.0,4,35.2,Yes,1,89321
+41,22,Bachelor,Manufacturing,Mumbai,10.0,7,39.6,Yes,2,135899
+62,38,Master,Healthcare,Hyderabad,10.0,6,54.2,Yes,1,183175
+20,0,Bachelor,Manufacturing,Mumbai,5.0,7,56.7,Yes,2,59506
+21,0,High School,Healthcare,Delhi,10.0,4,31.1,No,0,73743
+19,0,Bachelor,Finance,Delhi,6.0,3,41.1,No,2,59709
+67,44,Master,IT,Mumbai,9.0,5,37.9,No,3,169878
+52,26,High School,Retail,Pune,5.0,3,35.7,No,0,68266
+40,17,High School,IT,Pune,3.0,2,49.9,No,2,82867
+18,0,High School,Finance,Hyderabad,3.0,7,46.5,Yes,3,48316
+54,36,Master,Healthcare,Pune,1.0,5,42.2,No,3,120784
+27,5,Master,Retail,Mumbai,4.0,6,36.5,No,3,64785
+49,29,Bachelor,Finance,Bengaluru,1.0,2,36.0,Yes,4,66804
+56,37,Bachelor,Finance,Bengaluru,1.0,3,38.9,No,3,136340
+38,16,Bachelor,Finance,Pune,1.0,4,43.7,No,4,42707
+22,0,High School,Manufacturing,Mumbai,8.0,3,52.0,No,1,42900
+61,40,Master,IT,Pune,5.0,6,,Yes,4,145023
+54,36,Master,Manufacturing,Delhi,8.0,5,50.2,Yes,1,147558
+48,30,Bachelor,IT,Mumbai,8.0,1,47.1,Yes,0,130919
+29,8,Bachelor,Finance,Pune,8.0,7,25.0,No,0,94928
+61,43,High School,IT,Mumbai,2.0,4,50.6,Yes,1,117357
+35,9,Bachelor,Finance,Hyderabad,3.0,3,38.4,No,5,52822
+28,10,High School,IT,Pune,6.0,4,33.0,No,0,20488
+21,0,High School,IT,Mumbai,1.0,3,53.6,Yes,3,60442
+66,44,Master,Manufacturing,Mumbai,9.0,2,44.8,Yes,1,166180
+26,6,Bachelor,Retail,Bengaluru,,4,47.3,Yes,2,59178
+23,2,Bachelor,Manufacturing,Pune,5.0,5,41.0,Yes,3,54987
+66,43,Bachelor,Healthcare,Pune,6.0,8,44.4,Yes,2,129767
+47,23,Bachelor,Finance,Mumbai,10.0,6,41.5,No,0,114649
+37,18,Master,Retail,Hyderabad,5.0,4,25.0,No,1,84206
+33,12,High School,IT,Pune,7.0,2,41.8,Yes,4,73583
+59,37,Bachelor,IT,Mumbai,9.0,3,47.2,No,4,165908
+62,42,Bachelor,Finance,Hyderabad,8.0,6,53.3,No,2,206922
+45,27,Master,Manufacturing,Bengaluru,2.0,8,36.7,No,3,133057
+26,3,High School,Finance,Bengaluru,7.0,1,36.4,Yes,2,63004
+39,21,Bachelor,Finance,Bengaluru,10.0,4,36.4,Yes,1,145690
+38,13,Bachelor,Retail,Mumbai,6.0,5,51.1,Yes,0,87349
+24,1,High School,Healthcare,Hyderabad,5.0,5,44.0,Yes,4,42385
+36,16,Bachelor,Finance,Hyderabad,7.0,5,39.7,No,2,91454
+29,4,Bachelor,Healthcare,Mumbai,6.0,4,52.6,Yes,0,67340
+21,0,High School,Manufacturing,Bengaluru,6.0,4,33.8,No,3,42514
+36,13,Bachelor,IT,Delhi,4.0,5,42.8,Yes,5,92054
+37,19,Bachelor,Retail,Mumbai,9.0,5,53.0,Yes,1,115882
+60,38,Bachelor,Healthcare,Pune,3.0,2,38.6,Yes,2,107285
+53,28,PhD,Finance,Bengaluru,8.0,2,38.7,Yes,2,150453
+49,31,Master,Retail,Mumbai,10.0,5,56.3,No,1,191347
+50,24,Master,Retail,Hyderabad,5.0,2,45.7,Yes,1,87557
+25,4,Bachelor,Healthcare,Mumbai,3.0,4,53.0,Yes,1,66282
+45,22,High School,Manufacturing,Mumbai,5.0,2,33.9,No,0,84510
+65,41,Master,Healthcare,Mumbai,5.0,7,37.5,No,4,152102
+59,41,Bachelor,IT,Bengaluru,6.0,3,35.1,Yes,1,148908
+39,20,Bachelor,IT,Delhi,8.0,5,32.6,Yes,2,112057
+66,45,Bachelor,Healthcare,Delhi,8.0,6,45.5,No,2,162140
+57,37,Master,Retail,Bengaluru,2.0,1,47.7,No,0,128939
+50,26,Bachelor,Manufacturing,Bengaluru,8.0,1,53.3,No,2,137385
+59,39,Bachelor,IT,Hyderabad,5.0,5,28.4,Yes,3,119729
+61,37,Bachelor,Manufacturing,Delhi,9.0,2,29.2,Yes,4,136678
+21,1,High School,Retail,Pune,5.0,3,35.0,No,6,44976
+43,25,Master,Finance,Mumbai,1.0,4,41.0,No,2,103256
+62,37,Bachelor,IT,Hyderabad,2.0,5,57.4,No,1,121133
+53,27,Bachelor,Finance,Hyderabad,1.0,5,40.9,Yes,3,93518
+59,38,Master,Healthcare,Delhi,8.0,3,36.7,Yes,4,158664
+60,37,,IT,Pune,1.0,2,41.3,Yes,1,70601
+60,35,High School,Manufacturing,Bengaluru,5.0,4,40.4,Yes,2,113926
+64,43,Master,IT,Hyderabad,8.0,5,47.7,Yes,1,164840
+27,3,Bachelor,Retail,Bengaluru,1.0,4,46.3,Yes,1,52208
+29,3,Master,IT,Bengaluru,7.0,2,50.6,Yes,0,63925
+36,18,Master,Healthcare,Mumbai,6.0,5,46.3,Yes,0,88272
+64,42,Master,IT,Bengaluru,1.0,3,47.1,Yes,2,113742
+36,13,Master,Healthcare,Mumbai,10.0,2,32.2,Yes,2,83512
+20,0,High School,Manufacturing,Mumbai,6.0,4,53.7,No,2,55325
+32,9,Bachelor,Retail,Pune,,9,33.3,Yes,2,55204
+61,43,PhD,Retail,Bengaluru,5.0,4,38.0,Yes,4,151507
+29,4,Bachelor,IT,Hyderabad,6.0,4,49.9,No,0,48085
+51,30,Bachelor,IT,Bengaluru,8.0,4,48.3,Yes,5,174133
+20,0,Bachelor,Finance,Hyderabad,7.0,3,41.4,Yes,2,64760
+64,45,High School,Healthcare,Hyderabad,9.0,4,49.8,No,4,183885
+48,25,Master,IT,Delhi,9.0,4,48.0,No,1,115852
+20,0,Bachelor,Retail,Mumbai,4.0,0,50.9,Yes,2,35053
+63,45,Bachelor,Healthcare,Bengaluru,10.0,8,55.4,No,1,196182
+39,19,High School,Manufacturing,Pune,1.0,1,45.5,Yes,3,52380
+39,15,High School,Retail,Pune,2.0,2,37.5,No,1,30202
+58,34,Bachelor,Manufacturing,Pune,5.0,4,50.9,No,1,112485
+26,3,Bachelor,Retail,Bengaluru,1.0,6,40.1,No,3,38286
+26,6,Bachelor,Finance,Bengaluru,9.0,3,34.3,No,2,91509
+42,22,High School,Healthcare,Bengaluru,2.0,6,38.7,No,1,94725
+54,30,PhD,Finance,Pune,9.0,4,34.9,No,3,168998
+35,17,Bachelor,Manufacturing,Bengaluru,8.0,6,47.2,Yes,3,114926
+39,14,High School,Finance,Hyderabad,2.0,6,36.0,No,2,59477
+44,20,High School,Healthcare,Hyderabad,8.0,3,46.5,No,3,105959
+37,13,High School,Finance,Hyderabad,9.0,5,32.9,Yes,2,102858
+25,4,Bachelor,Healthcare,Delhi,2.0,4,41.5,Yes,7,59131
+25,1,Bachelor,Finance,Bengaluru,2.0,3,25.0,No,5,56729
+65,41,PhD,Manufacturing,Hyderabad,1.0,6,43.4,No,4,94427
+21,3,Bachelor,Healthcare,Hyderabad,1.0,4,36.6,Yes,2,42148
+32,7,High School,IT,Hyderabad,8.0,4,50.3,Yes,5,60897
+30,12,Master,Retail,Delhi,1.0,4,53.2,Yes,0,75826
+59,36,Bachelor,Finance,Hyderabad,5.0,2,32.6,Yes,6,136061
+61,41,Bachelor,IT,Bengaluru,9.0,4,39.2,Yes,4,183386
+59,38,High School,Retail,Pune,1.0,4,41.5,No,1,79179
+43,21,High School,IT,Bengaluru,10.0,4,29.2,No,6,127704
+22,1,Bachelor,Manufacturing,Hyderabad,10.0,5,57.0,No,2,99870
+23,2,Master,Manufacturing,Bengaluru,5.0,8,38.9,Yes,1,60459
+34,13,High School,Manufacturing,Pune,6.0,3,28.6,Yes,1,80842
+45,25,Bachelor,IT,Bengaluru,2.0,7,39.4,Yes,2,100293
+53,27,Master,Retail,Delhi,8.0,3,33.3,Yes,3,140265
+41,22,Bachelor,Finance,Hyderabad,1.0,2,38.5,Yes,5,71512
+67,43,High School,Manufacturing,Mumbai,3.0,3,39.6,Yes,1,128965
+34,16,Master,IT,Mumbai,9.0,5,55.8,No,0,124400
+57,36,High School,Finance,Pune,4.0,5,47.4,No,5,98945
+25,7,Master,IT,Mumbai,9.0,6,49.4,Yes,4,112507
+40,15,,Healthcare,Hyderabad,4.0,2,37.1,Yes,2,79167
+57,35,PhD,Finance,Pune,10.0,3,43.1,No,3,171008
+30,9,Bachelor,Manufacturing,Mumbai,1.0,4,26.0,Yes,1,63556
+40,18,High School,Retail,Delhi,9.0,1,51.3,Yes,4,86378
+39,18,Bachelor,IT,Hyderabad,6.0,3,45.3,No,2,83545
+35,11,High School,IT,Bengaluru,8.0,1,31.5,No,0,90312
+49,29,PhD,Finance,Delhi,10.0,1,49.7,Yes,3,184405
+37,17,Master,Healthcare,Hyderabad,10.0,4,34.1,Yes,1,89542
+35,15,Bachelor,Manufacturing,Pune,5.0,3,44.0,Yes,2,83184
+56,36,Bachelor,IT,Pune,6.0,2,44.3,Yes,1,145192
+22,0,Bachelor,Finance,Delhi,8.0,6,30.1,Yes,0,61054
+51,27,Master,Manufacturing,Pune,9.0,5,44.0,Yes,2,133545
+50,32,Master,Retail,Delhi,3.0,2,52.0,Yes,3,114871
+56,33,Bachelor,IT,Pune,1.0,3,52.4,No,1,92521
+60,36,Master,Healthcare,Bengaluru,5.0,6,36.7,No,3,130495
+27,1,Master,IT,Bengaluru,10.0,5,48.2,Yes,4,106020
+62,38,Bachelor,Healthcare,Delhi,10.0,5,45.6,No,1,164339
+47,21,Bachelor,Finance,Bengaluru,6.0,3,44.0,No,1,95275
+54,34,Bachelor,Finance,Pune,6.0,3,56.3,No,1,162364
+39,17,,Healthcare,Hyderabad,1.0,2,50.3,No,3,80297
+60,38,Master,Healthcare,Bengaluru,6.0,4,52.3,No,3,145979
+48,23,Bachelor,Manufacturing,Delhi,6.0,6,45.5,No,4,98374
+32,12,Master,Finance,Bengaluru,9.0,2,43.7,Yes,1,107682
+52,26,High School,Manufacturing,Hyderabad,4.0,3,49.6,Yes,3,94160
+61,42,Master,Healthcare,Mumbai,7.0,2,47.2,No,6,193365
+62,41,Master,IT,Bengaluru,3.0,4,53.1,No,2,142920
+46,25,Bachelor,IT,Mumbai,7.0,3,38.2,No,6,100587
+57,33,Master,Finance,Mumbai,6.0,2,30.7,No,3,142158
+21,0,Master,IT,Delhi,2.0,3,50.1,No,4,58695
+27,5,Bachelor,Healthcare,Delhi,9.0,5,52.4,Yes,5,90051
+54,30,Bachelor,IT,Pune,4.0,5,55.4,Yes,1,109634
+26,5,Bachelor,Retail,Delhi,1.0,5,46.7,No,3,51501
+37,13,High School,Retail,Mumbai,4.0,5,,No,3,70946
+31,12,High School,IT,Pune,2.0,3,36.0,No,1,45325
+59,33,Bachelor,Healthcare,Pune,7.0,3,33.2,Yes,0,127780
+33,13,Master,Retail,Delhi,10.0,4,44.2,No,2,134248
+19,0,High School,Finance,Delhi,3.0,5,50.7,Yes,4,65580
+33,14,Master,Manufacturing,Pune,1.0,6,32.7,No,1,67073
+41,15,Bachelor,Manufacturing,Bengaluru,9.0,4,42.1,Yes,3,104065
+28,5,Bachelor,Healthcare,Pune,8.0,4,44.1,No,1,59362
+35,12,Bachelor,Healthcare,Bengaluru,10.0,7,50.4,Yes,1,141413
+61,43,Master,Retail,Delhi,2.0,4,47.1,Yes,1,106760
+34,8,Master,Manufacturing,Pune,5.0,10,33.1,Yes,3,82130
+33,14,High School,Retail,Mumbai,8.0,4,40.3,No,1,92922
+60,40,Bachelor,Manufacturing,Bengaluru,9.0,6,46.9,No,1,197546
+40,14,High School,Finance,Mumbai,,2,42.8,No,1,89547
+53,32,High School,Healthcare,Mumbai,3.0,4,32.5,Yes,1,80526
+29,4,High School,Manufacturing,Mumbai,4.0,3,27.0,No,0,47926
+45,27,Bachelor,Manufacturing,Hyderabad,8.0,5,,Yes,2,148462
+53,30,Bachelor,Healthcare,Pune,7.0,5,46.2,Yes,2,90681
+41,18,PhD,Finance,Pune,3.0,7,57.6,No,2,128737
+46,28,PhD,Retail,Pune,9.0,6,37.7,No,5,103247
+27,7,High School,Manufacturing,Mumbai,2.0,6,29.9,No,2,62601
+59,33,Bachelor,Finance,Pune,10.0,3,34.5,Yes,2,137251
+39,13,Master,Healthcare,Hyderabad,6.0,1,34.2,Yes,0,93041
+62,43,High School,Finance,Bengaluru,1.0,6,32.2,Yes,1,112100
+66,43,Bachelor,Retail,Delhi,6.0,4,,No,0,127717
+20,0,Bachelor,Retail,Hyderabad,10.0,5,49.8,Yes,2,56341
+65,44,Bachelor,IT,Bengaluru,10.0,3,31.8,Yes,1,172367
+61,43,Master,Manufacturing,Mumbai,9.0,2,40.2,Yes,2,167509
+22,0,High School,Healthcare,Bengaluru,9.0,4,40.7,Yes,4,45820
+43,24,PhD,Retail,Mumbai,6.0,4,53.5,No,0,129673
+35,12,Master,Manufacturing,Hyderabad,4.0,4,46.1,No,1,82498
+45,20,Bachelor,Healthcare,Bengaluru,4.0,1,43.3,Yes,2,60351
+62,39,High School,Finance,Mumbai,8.0,5,51.3,No,0,179084
+22,0,High School,IT,Delhi,5.0,4,55.8,No,4,78550
+67,45,Master,Finance,Pune,10.0,4,43.2,No,1,245157
+45,25,Bachelor,Retail,Mumbai,2.0,4,33.5,No,6,88612
+23,2,Bachelor,IT,Mumbai,6.0,3,47.8,No,1,74733
+65,44,High School,Retail,Pune,1.0,4,45.4,No,3,119734
+64,45,Bachelor,Finance,Bengaluru,1.0,7,46.5,Yes,0,115385
+42,19,PhD,Finance,Bengaluru,4.0,4,51.2,Yes,0,128195
+30,6,Bachelor,Healthcare,Mumbai,10.0,7,58.8,No,0,123801
+55,33,Bachelor,Retail,Hyderabad,3.0,8,47.6,No,1,108745
+28,9,Bachelor,Finance,Hyderabad,5.0,5,37.7,No,4,47140
+24,3,Bachelor,Finance,Hyderabad,7.0,2,40.9,No,2,73263
+18,0,Bachelor,IT,Mumbai,9.0,3,30.8,Yes,1,63382
+27,5,High School,IT,Hyderabad,7.0,8,37.5,Yes,1,49206
+56,35,Master,Finance,Pune,6.0,1,48.2,Yes,6,172215
+21,0,Bachelor,Healthcare,Mumbai,4.0,6,32.8,No,3,57366
+39,14,High School,Manufacturing,Mumbai,8.0,3,48.1,No,2,66660
+26,1,Master,Healthcare,Mumbai,5.0,2,42.7,Yes,1,53132
+35,15,Bachelor,Finance,Pune,4.0,2,35.9,Yes,0,89528
+39,19,Bachelor,Healthcare,Delhi,1.0,2,39.8,Yes,0,69877
+47,25,Master,IT,Bengaluru,4.0,7,49.0,Yes,4,102221
+21,1,Bachelor,IT,Pune,6.0,5,56.6,No,3,59008
+18,0,Bachelor,Manufacturing,Hyderabad,5.0,5,29.2,Yes,0,28417
+65,39,Bachelor,Finance,Hyderabad,8.0,2,48.0,No,6,161397
+63,39,High School,Manufacturing,Delhi,4.0,7,42.5,No,0,118445
+25,5,Bachelor,Manufacturing,Bengaluru,2.0,2,41.9,No,1,51349
+53,35,Bachelor,Finance,Pune,6.0,2,39.5,Yes,4,140652
+36,14,Bachelor,Retail,Pune,4.0,6,45.5,No,2,75799
+64,38,Bachelor,IT,Mumbai,3.0,4,32.8,No,3,104871
+46,28,Master,Retail,Pune,5.0,2,35.3,Yes,0,95199
+43,21,Bachelor,Finance,Mumbai,4.0,7,47.7,No,0,77316
+62,37,Bachelor,Healthcare,Pune,,6,38.6,No,1,116768
+35,15,Master,Manufacturing,Mumbai,2.0,7,46.8,Yes,1,74431
+19,0,Bachelor,Manufacturing,Pune,2.0,3,29.1,Yes,1,27949
+64,39,Master,Manufacturing,Delhi,6.0,6,44.0,No,3,145024
+18,0,PhD,Manufacturing,Mumbai,3.0,7,38.9,No,4,59080
+18,0,Bachelor,Finance,Delhi,10.0,5,38.9,No,1,63962
+18,0,Bachelor,Finance,Delhi,4.0,9,29.4,Yes,1,73884
+64,39,Master,Finance,Bengaluru,6.0,1,44.3,Yes,1,157672
+29,11,Bachelor,Finance,Hyderabad,1.0,8,40.5,No,2,74644
+55,34,Bachelor,Finance,Bengaluru,9.0,1,37.3,Yes,1,149087
+58,34,High School,Retail,Delhi,9.0,4,37.9,Yes,3,167383
+59,38,PhD,IT,Mumbai,10.0,3,46.6,No,2,179426
+53,31,Master,IT,Pune,2.0,4,54.2,Yes,1,111423
+42,24,Bachelor,IT,Delhi,4.0,3,53.3,Yes,1,100713
+55,35,High School,Retail,Mumbai,8.0,4,53.4,Yes,1,134201
+32,10,Master,Finance,Pune,4.0,4,48.0,Yes,2,91888
+43,25,Master,Finance,Pune,7.0,10,37.0,Yes,0,132721
+67,44,Master,IT,Delhi,1.0,6,36.9,No,4,135082
+66,45,Bachelor,Healthcare,Hyderabad,1.0,4,40.6,No,2,116977
+35,17,Bachelor,Healthcare,Hyderabad,6.0,3,52.8,Yes,1,96243
+19,0,Bachelor,Finance,Hyderabad,1.0,4,46.3,Yes,4,76335
+67,45,High School,Finance,Mumbai,6.0,4,36.4,Yes,1,173961
+51,26,,Finance,Hyderabad,7.0,2,40.4,No,3,111366
+49,27,Master,IT,Hyderabad,6.0,3,41.5,No,1,106575
+18,0,Bachelor,Manufacturing,Pune,9.0,1,53.8,No,0,51639
+57,32,High School,Finance,Hyderabad,9.0,2,44.4,Yes,3,145060
+63,45,Bachelor,Finance,Delhi,6.0,3,46.8,No,4,148242
+22,0,Bachelor,Manufacturing,Hyderabad,2.0,5,50.0,No,0,35910
+54,35,Bachelor,Manufacturing,Pune,2.0,5,34.2,Yes,0,90434
+41,18,Bachelor,Manufacturing,Pune,3.0,7,38.4,No,2,58787
+26,5,Bachelor,IT,Delhi,8.0,4,40.2,No,2,87115
+32,8,Bachelor,IT,Delhi,10.0,2,47.4,No,1,92179
+28,7,Master,Finance,Delhi,2.0,2,51.7,Yes,1,85194
+50,25,Bachelor,IT,Delhi,9.0,3,43.8,Yes,3,134065
+47,27,High School,Manufacturing,Hyderabad,1.0,5,47.2,Yes,2,56669
+28,5,Bachelor,Finance,Bengaluru,2.0,5,25.0,No,2,59464
+55,35,PhD,Healthcare,Bengaluru,4.0,4,38.7,Yes,2,125207
+28,6,Bachelor,Retail,Pune,3.0,5,40.5,No,0,30394
+59,36,Bachelor,Retail,Pune,4.0,2,45.8,Yes,0,109898
+28,7,Bachelor,IT,Pune,10.0,2,56.6,Yes,0,90256
+53,32,Master,Retail,Delhi,4.0,3,42.8,No,1,86600
+42,24,Bachelor,Manufacturing,Delhi,8.0,2,40.7,No,2,119980
+54,33,High School,Retail,Mumbai,3.0,1,30.2,Yes,1,65078
+42,23,Master,Manufacturing,Hyderabad,7.0,8,34.7,Yes,3,95167
+34,11,Bachelor,Retail,Bengaluru,10.0,4,47.9,No,5,76452
+55,32,Bachelor,Retail,Delhi,8.0,3,42.6,No,4,153651
+30,10,Master,Healthcare,Bengaluru,7.0,2,51.6,No,2,105457
+19,0,Bachelor,Healthcare,Mumbai,2.0,6,51.4,Yes,3,60089
+30,8,High School,Retail,Mumbai,3.0,7,41.4,Yes,1,32870
+26,5,Bachelor,Manufacturing,Delhi,8.0,1,48.0,Yes,4,64777
+53,27,Master,Finance,Delhi,7.0,4,43.8,No,3,164248
+45,27,High School,IT,Hyderabad,4.0,3,40.7,No,3,93333
+66,45,Master,Retail,Pune,2.0,1,58.9,No,0,131974
+26,8,Master,Retail,Mumbai,,6,40.9,No,3,64839
+48,30,Bachelor,Finance,Delhi,5.0,1,52.4,Yes,0,104078
+33,15,High School,Retail,Bengaluru,6.0,8,38.9,No,1,86146
+56,37,Bachelor,Retail,Delhi,5.0,9,42.0,Yes,1,109289
+24,0,Bachelor,IT,Bengaluru,8.0,1,40.3,Yes,1,38281
+65,45,,Finance,Bengaluru,10.0,3,49.0,No,3,201731
+65,45,Master,Retail,Bengaluru,1.0,4,39.0,No,0,103266
+18,0,High School,Finance,Mumbai,2.0,3,26.5,No,4,69497
+31,5,PhD,IT,Hyderabad,3.0,3,32.2,No,2,87037
+38,20,Bachelor,Healthcare,Bengaluru,3.0,5,42.1,Yes,0,63103
+65,39,High School,Finance,Pune,5.0,4,55.2,Yes,2,139620
+60,36,Master,Healthcare,Pune,6.0,1,43.1,Yes,3,111494
+18,0,Bachelor,Healthcare,Pune,8.0,3,47.1,No,2,43720
+47,23,High School,Healthcare,Bengaluru,6.0,9,34.6,Yes,1,97645
+35,16,Bachelor,Manufacturing,Bengaluru,1.0,6,50.4,No,2,63591
+51,31,Bachelor,Healthcare,Pune,7.0,5,41.3,Yes,2,125192
+55,34,Bachelor,IT,Hyderabad,3.0,3,43.2,Yes,1,87445
+34,15,Master,Finance,Bengaluru,5.0,4,46.3,Yes,3,123406
+43,21,Bachelor,IT,Pune,2.0,4,54.1,No,5,80595
+29,10,Master,Finance,Delhi,7.0,6,56.9,No,2,111729
+33,13,Master,IT,Bengaluru,4.0,9,34.1,Yes,3,118303
+60,38,High School,IT,Hyderabad,7.0,3,30.3,No,3,176052
+53,35,Master,Healthcare,Mumbai,4.0,4,47.1,Yes,2,100690
+55,36,High School,Healthcare,Mumbai,7.0,5,43.1,No,1,79060
+31,12,Bachelor,Retail,Hyderabad,1.0,1,36.2,Yes,0,48143
+49,30,High School,Retail,Mumbai,9.0,0,,Yes,2,109382
+47,23,Bachelor,IT,Delhi,7.0,3,36.2,Yes,0,133364
+63,45,High School,Finance,Hyderabad,5.0,4,40.1,No,0,148544
+20,0,Bachelor,Healthcare,Hyderabad,9.0,6,41.1,No,6,79435
+46,25,Bachelor,Manufacturing,Hyderabad,3.0,5,39.4,Yes,3,78484
+24,0,High School,Manufacturing,Delhi,10.0,5,42.5,Yes,1,46720
+50,26,Bachelor,Retail,Hyderabad,9.0,3,34.5,Yes,1,124821
+27,7,High School,Retail,Mumbai,6.0,10,43.9,Yes,1,70459
+44,26,Bachelor,IT,Mumbai,9.0,3,52.1,Yes,3,149864
+25,5,High School,Retail,Pune,4.0,4,29.2,No,1,45371
+39,14,Bachelor,Retail,Delhi,5.0,6,39.6,No,3,77076
+19,0,Master,Finance,Delhi,9.0,4,41.3,Yes,3,94402
+30,10,Bachelor,Manufacturing,Bengaluru,1.0,5,,No,2,59952
+67,45,Bachelor,Finance,Bengaluru,10.0,7,29.4,No,5,201158
+48,25,Bachelor,Healthcare,Pune,5.0,8,58.3,No,3,147834
+39,15,Bachelor,Healthcare,Hyderabad,7.0,2,46.8,Yes,0,96365
+37,17,Bachelor,Manufacturing,Mumbai,2.0,3,36.9,Yes,3,64098
+53,35,Bachelor,Healthcare,Pune,8.0,6,40.9,No,1,115889
+44,21,Bachelor,IT,Bengaluru,9.0,4,39.9,No,4,129700
+30,6,High School,Manufacturing,Hyderabad,6.0,5,49.4,No,0,73757
+41,15,High School,Healthcare,Pune,2.0,5,37.5,No,3,52315
+47,28,High School,Finance,Mumbai,6.0,3,50.9,Yes,2,118922
+48,26,Bachelor,Retail,Bengaluru,6.0,5,25.0,No,0,142103
+42,17,Bachelor,Healthcare,Bengaluru,1.0,3,26.0,Yes,3,61347
+64,43,Bachelor,Retail,Pune,8.0,4,35.1,Yes,6,174589
+39,13,Bachelor,Retail,Bengaluru,4.0,0,40.5,Yes,4,65762
+61,38,Master,Healthcare,Hyderabad,10.0,2,37.1,Yes,2,149032
+54,28,,Manufacturing,Bengaluru,4.0,4,53.3,Yes,5,133244
+19,0,High School,IT,Bengaluru,10.0,5,35.8,No,3,73930
+33,11,Master,Finance,Bengaluru,10.0,1,37.0,Yes,0,110431
+49,28,High School,Healthcare,Delhi,4.0,3,42.7,Yes,0,81746
+33,12,Bachelor,Manufacturing,Pune,8.0,6,57.4,Yes,2,110203
+39,21,Bachelor,Manufacturing,Bengaluru,8.0,4,37.7,Yes,1,92308
+42,20,Bachelor,Finance,Pune,9.0,9,52.1,No,0,127555
+61,38,Master,Retail,Bengaluru,2.0,7,26.2,Yes,3,102292
+59,34,Bachelor,Healthcare,Hyderabad,2.0,4,45.1,No,2,124561
+19,0,Master,Manufacturing,Pune,9.0,3,43.0,No,2,64348
+63,38,Master,Retail,Pune,4.0,0,49.6,Yes,2,107257
+56,30,Master,IT,Mumbai,5.0,2,34.0,Yes,1,133271
+21,0,Master,Manufacturing,Pune,7.0,6,54.4,Yes,4,63894
+66,43,Bachelor,Manufacturing,Bengaluru,9.0,4,39.2,Yes,0,187341
+22,0,Bachelor,IT,Mumbai,9.0,10,34.9,Yes,2,80730
+39,16,Master,Manufacturing,Hyderabad,7.0,6,45.3,Yes,0,94426
+24,5,Bachelor,Retail,Bengaluru,7.0,5,50.3,No,1,40096
+66,45,Bachelor,IT,Delhi,5.0,2,32.7,Yes,0,125153
+46,22,Bachelor,Manufacturing,Bengaluru,2.0,8,42.8,Yes,2,54382
+32,7,Bachelor,Healthcare,Hyderabad,8.0,6,51.4,No,1,83831
+30,11,PhD,IT,Hyderabad,4.0,3,59.9,No,0,117431
+42,21,High School,Healthcare,Hyderabad,6.0,4,38.0,No,3,102653
+46,22,High School,Healthcare,Delhi,5.0,3,42.4,Yes,3,97075
+29,8,PhD,IT,Mumbai,1.0,4,33.6,Yes,3,58807
+55,36,Master,Retail,Pune,10.0,2,38.7,Yes,5,159490
+62,38,Bachelor,IT,Pune,1.0,4,31.0,No,1,108224
+35,9,PhD,IT,Delhi,7.0,7,41.6,Yes,1,113582
+47,23,Master,IT,Bengaluru,10.0,5,34.6,No,3,170767
+19,0,Bachelor,Finance,Bengaluru,1.0,0,41.9,Yes,5,46078
+57,32,High School,Manufacturing,Hyderabad,5.0,6,62.7,Yes,4,131432
+56,30,Master,Finance,Pune,10.0,2,45.5,No,0,153949
+20,0,Master,Finance,Pune,10.0,5,38.9,No,3,82802
+35,13,Bachelor,Healthcare,Hyderabad,10.0,6,52.8,No,2,115635
+60,40,Bachelor,Manufacturing,Pune,10.0,3,36.4,Yes,6,185422
+67,42,Master,Manufacturing,Bengaluru,8.0,2,42.1,No,3,186305
+50,27,Bachelor,Manufacturing,Mumbai,6.0,5,43.4,Yes,2,93607
+39,16,PhD,IT,Delhi,8.0,2,42.0,No,1,134625
+18,0,Bachelor,Finance,Hyderabad,4.0,6,36.9,Yes,1,47577
+54,32,Bachelor,Retail,Pune,2.0,2,37.4,Yes,3,113875
+65,43,Bachelor,Finance,Bengaluru,1.0,1,50.9,No,1,113460
+40,15,,IT,Hyderabad,7.0,2,36.2,Yes,1,82092
+58,37,Bachelor,IT,Hyderabad,8.0,3,57.0,Yes,2,159451
+33,11,Master,Healthcare,Hyderabad,5.0,6,31.0,Yes,0,99004
+32,13,Bachelor,Retail,Mumbai,10.0,4,38.2,Yes,2,111763
+39,18,Master,Finance,Mumbai,6.0,4,41.4,No,1,104872
+27,2,PhD,Retail,Bengaluru,8.0,2,49.6,No,2,79999
+30,10,Bachelor,Manufacturing,Pune,3.0,3,39.8,No,3,78595
+55,34,Bachelor,IT,Delhi,1.0,3,46.8,Yes,4,129258
+66,42,PhD,Manufacturing,Bengaluru,9.0,4,51.1,No,2,134934
+53,31,High School,Finance,Delhi,9.0,5,,No,0,144883
+35,9,Bachelor,Manufacturing,Bengaluru,3.0,6,48.5,Yes,5,61573
+45,19,Bachelor,Retail,Delhi,8.0,3,42.5,No,2,107939
+40,19,Bachelor,Healthcare,Hyderabad,7.0,5,53.3,No,6,78065
+63,38,High School,Retail,Bengaluru,8.0,5,43.9,Yes,4,149697
+22,0,PhD,Manufacturing,Hyderabad,4.0,1,41.9,No,2,56601
+46,23,High School,Finance,Delhi,9.0,7,43.7,Yes,2,158600
+67,45,PhD,Retail,Bengaluru,5.0,7,41.5,No,1,140119
+22,0,Bachelor,Finance,Delhi,3.0,5,36.7,Yes,0,44755
+65,39,Bachelor,Manufacturing,Delhi,3.0,3,58.4,Yes,2,122803
+58,34,High School,Manufacturing,Mumbai,7.0,5,29.8,Yes,4,117561
+36,14,Bachelor,Healthcare,Hyderabad,7.0,6,49.6,No,3,84615
+47,23,High School,Finance,Delhi,4.0,3,51.6,Yes,2,91166
+47,23,High School,Manufacturing,Pune,8.0,0,28.2,No,4,82206
+53,34,Master,Healthcare,Bengaluru,7.0,5,28.7,No,0,131392
+41,16,Bachelor,Retail,Bengaluru,6.0,1,45.2,No,0,97876
+33,7,Bachelor,Finance,Mumbai,4.0,3,49.9,No,1,97421
+49,28,Master,Healthcare,Delhi,7.0,4,39.8,No,1,113016
+34,15,Bachelor,Retail,Bengaluru,10.0,4,37.0,No,0,136007
+54,28,High School,Healthcare,Hyderabad,3.0,2,56.4,Yes,1,85427
+44,24,Bachelor,Retail,Mumbai,8.0,3,39.6,No,2,134977
+49,24,Bachelor,IT,Delhi,2.0,9,47.3,Yes,3,92613
+55,37,PhD,Finance,Pune,2.0,7,36.0,Yes,2,130122
+33,7,PhD,Manufacturing,Pune,5.0,2,52.9,No,3,73436
+49,27,Bachelor,IT,Pune,10.0,4,44.4,No,1,140229
+33,11,Bachelor,Manufacturing,Bengaluru,10.0,7,34.5,Yes,1,120640
+37,16,Master,IT,Hyderabad,6.0,7,31.2,Yes,3,136553
+64,45,Bachelor,Finance,Mumbai,8.0,3,39.9,No,1,188782
+21,2,Bachelor,IT,Delhi,9.0,7,46.2,No,3,61276
+40,17,Master,Healthcare,Pune,5.0,5,46.3,Yes,4,118373
+67,45,Master,Retail,Hyderabad,2.0,8,25.0,No,2,127807
+64,42,Bachelor,Finance,Mumbai,10.0,5,43.3,Yes,3,186924
+36,17,Bachelor,Manufacturing,Bengaluru,3.0,2,40.4,No,2,85799
+33,12,Bachelor,Healthcare,Hyderabad,4.0,1,51.6,Yes,4,88794
+56,35,Bachelor,Retail,Mumbai,6.0,3,46.2,No,3,112180
+25,0,Bachelor,Healthcare,Delhi,6.0,5,54.2,No,1,61934
+36,14,Bachelor,Manufacturing,Delhi,3.0,7,37.2,No,4,83513
+21,1,PhD,Manufacturing,Pune,8.0,5,32.0,No,3,65267
+59,34,High School,Retail,Pune,5.0,2,46.4,No,2,85985
+23,0,High School,Finance,Delhi,9.0,6,,Yes,1,84332
+63,44,Master,Retail,Pune,3.0,3,41.0,Yes,2,141983
+39,19,Bachelor,Manufacturing,Bengaluru,2.0,3,48.8,No,0,102869
+20,0,Master,Manufacturing,Bengaluru,10.0,6,49.2,No,3,85602
+26,0,Bachelor,Retail,Mumbai,3.0,3,44.9,No,2,38824
+27,6,High School,Manufacturing,Delhi,4.0,5,45.6,Yes,1,63077
+54,33,Bachelor,Healthcare,Mumbai,9.0,4,44.2,No,5,141836
+54,28,High School,IT,Bengaluru,1.0,4,46.1,Yes,3,112797
+43,20,Master,Finance,Bengaluru,7.0,5,29.9,Yes,3,121151
+32,9,Bachelor,Manufacturing,Delhi,10.0,4,34.5,Yes,2,103119
+20,0,Master,Healthcare,Bengaluru,9.0,7,49.8,No,1,88639
+52,31,Bachelor,Manufacturing,Bengaluru,3.0,3,41.9,Yes,2,92977
+25,3,Master,Retail,Mumbai,4.0,1,42.7,Yes,0,47073
+32,12,High School,Healthcare,Bengaluru,7.0,6,46.3,No,3,64181
+44,25,Bachelor,Retail,Bengaluru,5.0,4,54.9,No,2,143234
+51,27,Master,IT,Hyderabad,5.0,3,39.4,Yes,1,96880
+43,24,High School,Manufacturing,Hyderabad,8.0,4,42.4,No,1,130432
+33,13,PhD,Healthcare,Pune,7.0,2,43.2,No,1,78871
+42,22,Bachelor,Finance,Mumbai,5.0,4,46.7,No,1,105839
+37,11,Bachelor,Retail,Delhi,1.0,2,46.3,Yes,1,63776
+34,16,Bachelor,Finance,Bengaluru,9.0,3,32.4,Yes,3,113006
+30,8,Bachelor,IT,Delhi,8.0,7,51.6,No,2,96611
+38,19,High School,Finance,Delhi,1.0,4,40.8,Yes,0,69714
+55,32,PhD,Retail,Delhi,7.0,3,45.0,No,3,126248
+23,4,Master,IT,Pune,6.0,6,43.1,Yes,2,67791
+24,1,Bachelor,IT,Mumbai,1.0,9,38.7,No,2,47392
+55,34,Bachelor,Retail,Bengaluru,7.0,2,36.6,Yes,2,148539
+58,32,Bachelor,Retail,Mumbai,7.0,1,43.0,Yes,2,124085
+30,7,PhD,IT,Mumbai,9.0,3,52.2,Yes,1,128080
+50,30,Bachelor,Manufacturing,Mumbai,6.0,2,47.3,No,2,112058
+20,0,Master,Retail,Delhi,4.0,2,40.3,No,1,47116
+35,11,Bachelor,Finance,Pune,5.0,4,,Yes,1,76711
+48,23,Master,Healthcare,Bengaluru,6.0,9,50.7,Yes,1,109406
+25,2,Bachelor,IT,Bengaluru,9.0,10,44.2,No,2,94378
+24,2,Master,Healthcare,Bengaluru,3.0,6,32.8,No,1,77289
+61,37,Bachelor,Healthcare,Pune,9.0,9,50.7,Yes,1,172953
+64,45,High School,Healthcare,Mumbai,3.0,5,41.4,No,1,127804
+57,37,Bachelor,Manufacturing,Pune,1.0,4,40.5,Yes,3,106613
+29,11,Master,Manufacturing,Hyderabad,8.0,1,,No,0,109242
+50,25,Master,Retail,Delhi,5.0,4,41.6,No,1,102456
+65,39,PhD,Finance,Mumbai,9.0,3,44.2,Yes,0,211657
+43,24,Bachelor,IT,Mumbai,9.0,5,30.5,Yes,2,121283
+37,18,Bachelor,Manufacturing,Pune,2.0,6,45.5,Yes,1,68467
+34,8,Bachelor,Healthcare,Hyderabad,6.0,4,43.4,No,1,83531
+31,12,Bachelor,Retail,Bengaluru,4.0,4,27.2,No,1,75422
+47,22,Master,IT,Pune,2.0,6,39.5,Yes,4,97348
+47,27,Bachelor,Manufacturing,Hyderabad,2.0,9,34.4,No,2,56510
+46,26,PhD,Finance,Pune,4.0,4,41.1,Yes,2,95182
+58,35,Bachelor,Healthcare,Bengaluru,7.0,5,29.1,Yes,2,126286
+24,2,Bachelor,Finance,Mumbai,10.0,3,36.4,Yes,2,87060
+54,36,High School,Healthcare,Pune,8.0,3,40.4,Yes,5,153676
+20,0,Bachelor,Healthcare,Delhi,1.0,1,54.7,Yes,0,56593
+47,26,Master,Healthcare,Delhi,4.0,4,40.3,No,1,112756
+32,14,Bachelor,Finance,Hyderabad,6.0,3,38.8,Yes,2,96272
+22,3,Bachelor,Finance,Delhi,1.0,4,43.0,Yes,3,78893
+36,14,Master,Manufacturing,Delhi,1.0,3,37.8,No,1,79662
+20,0,Bachelor,Healthcare,Delhi,2.0,9,39.6,No,2,42712
+40,18,PhD,Healthcare,Delhi,9.0,4,,No,1,151980
+37,19,Bachelor,IT,Mumbai,8.0,2,36.5,No,2,135423
+32,9,Master,Manufacturing,Pune,2.0,12,44.8,No,3,86297
+37,14,Bachelor,Manufacturing,Pune,2.0,8,38.1,Yes,3,57511
+44,20,High School,Manufacturing,Hyderabad,6.0,9,49.9,No,2,90095
+49,30,High School,Healthcare,Pune,4.0,8,30.2,No,3,116656
+22,0,High School,Manufacturing,Hyderabad,4.0,4,55.9,No,6,53410
+22,1,Master,Healthcare,Pune,10.0,2,52.8,No,4,105373
+55,33,Master,Manufacturing,Mumbai,10.0,4,48.4,No,3,190352
+55,35,Master,Manufacturing,Delhi,4.0,4,37.5,No,3,87297
+45,19,Bachelor,Finance,Mumbai,4.0,4,50.7,Yes,2,95992
+57,31,Bachelor,Finance,Bengaluru,,5,37.9,No,4,132409
+56,32,Bachelor,Healthcare,Delhi,5.0,4,51.6,Yes,1,108497
+40,17,Bachelor,Healthcare,Delhi,4.0,5,51.6,No,0,113352
+50,32,Master,Finance,Mumbai,2.0,1,47.5,No,4,128985
+47,24,Bachelor,Finance,Pune,4.0,2,46.4,Yes,3,89580
+61,43,High School,Manufacturing,Pune,7.0,1,41.8,No,3,145647
+46,27,Bachelor,Manufacturing,Delhi,5.0,2,44.4,Yes,0,115075
+30,10,Bachelor,Retail,Pune,9.0,2,45.1,Yes,0,74834
+42,20,Master,Healthcare,Bengaluru,4.0,4,46.4,No,2,110975
+48,29,Bachelor,Healthcare,Delhi,9.0,0,49.0,No,1,133434
+51,26,Master,Manufacturing,Delhi,9.0,3,50.3,No,3,135023
+66,45,High School,Finance,Pune,6.0,2,32.2,No,1,142750
+29,8,Bachelor,Healthcare,Pune,8.0,5,31.8,No,0,80827
+24,1,Bachelor,IT,Hyderabad,6.0,3,27.2,Yes,2,61631
+27,1,Bachelor,Finance,Hyderabad,8.0,4,37.7,No,1,78781
+66,42,Bachelor,IT,Pune,8.0,3,26.0,No,3,157514
+43,24,Master,Finance,Mumbai,2.0,4,35.2,No,1,97813
+64,40,Master,Healthcare,Delhi,1.0,4,57.5,Yes,0,119541
+64,45,Bachelor,Manufacturing,Bengaluru,4.0,4,37.6,No,1,116310
+29,8,Bachelor,Healthcare,Delhi,2.0,4,31.5,No,1,33212
+18,0,Bachelor,Finance,Delhi,2.0,5,43.3,No,7,68111
+26,1,High School,Healthcare,Hyderabad,8.0,5,57.5,Yes,2,81938
+24,0,Bachelor,Manufacturing,Pune,10.0,5,52.1,No,3,58804
+61,36,High School,Healthcare,Mumbai,4.0,2,37.1,Yes,2,105387
+40,16,Bachelor,Finance,Hyderabad,2.0,4,43.4,Yes,1,64995
+28,8,High School,Manufacturing,Mumbai,7.0,3,39.4,No,4,53889
+65,41,Bachelor,Manufacturing,Pune,9.0,6,50.5,No,2,194401
+63,42,PhD,Finance,Hyderabad,3.0,1,51.3,No,1,145138
+66,44,Bachelor,Finance,Delhi,10.0,4,38.7,No,3,196367
+25,0,Bachelor,Manufacturing,Bengaluru,1.0,5,34.2,Yes,1,50417
+53,28,High School,Finance,Bengaluru,5.0,2,52.6,No,2,107552
+23,0,Bachelor,Healthcare,Delhi,3.0,4,45.4,No,1,51436
+50,25,Bachelor,Retail,Hyderabad,5.0,2,41.6,No,3,87186
+67,45,,Retail,Bengaluru,1.0,3,34.5,Yes,2,79897
+58,38,Bachelor,IT,Pune,5.0,8,29.8,No,2,157315
+41,18,High School,IT,Hyderabad,3.0,4,,Yes,0,104810
+54,36,High School,IT,Delhi,4.0,5,49.1,Yes,4,104751
+40,21,Bachelor,Retail,Pune,9.0,4,44.9,No,1,110247
+22,4,Master,Retail,Bengaluru,10.0,9,44.1,No,1,76450
+23,0,Bachelor,Manufacturing,Bengaluru,1.0,3,49.8,No,0,56076
+58,32,Bachelor,IT,Mumbai,10.0,6,43.3,Yes,2,152067
+67,44,Master,Finance,Pune,9.0,3,46.9,No,1,180246
+43,23,High School,Finance,Hyderabad,8.0,4,50.9,No,1,142451
+25,6,Bachelor,IT,Hyderabad,5.0,6,47.6,Yes,3,60126
+57,36,Master,Retail,Hyderabad,9.0,3,47.5,No,1,167069
+55,36,Master,Finance,Bengaluru,6.0,5,52.1,No,1,166305
+30,7,Master,Finance,Hyderabad,5.0,2,37.5,Yes,0,65053
+62,43,Bachelor,Manufacturing,Bengaluru,1.0,9,29.4,No,2,147828
+22,0,Bachelor,Manufacturing,Pune,4.0,3,25.0,Yes,1,56820
+35,12,Master,Retail,Hyderabad,5.0,4,43.5,No,2,78518
+24,4,High School,Manufacturing,Hyderabad,4.0,1,47.2,Yes,2,34586
+44,24,Bachelor,Finance,Bengaluru,1.0,7,37.1,No,1,77459
+19,0,Bachelor,Healthcare,Delhi,,6,33.0,No,0,65673
+32,8,Bachelor,Manufacturing,Mumbai,5.0,3,42.5,No,0,49249
+55,36,High School,Retail,Pune,8.0,3,45.6,Yes,3,115115
+62,36,Master,Finance,Pune,6.0,4,53.5,Yes,4,149728
+32,9,Master,Healthcare,Mumbai,10.0,5,40.0,No,0,104153
+25,7,Bachelor,Finance,Pune,7.0,4,33.8,Yes,2,68293
+45,20,Bachelor,Manufacturing,Delhi,4.0,6,53.6,No,1,90758
+35,13,Bachelor,IT,Bengaluru,5.0,3,37.3,No,3,84203
+27,8,High School,Manufacturing,Delhi,4.0,1,43.2,No,1,67200
+27,4,Master,Finance,Bengaluru,6.0,3,43.8,No,2,93191
+29,10,Master,Manufacturing,Hyderabad,6.0,4,47.7,Yes,3,85487
+60,34,Bachelor,Manufacturing,Delhi,10.0,6,39.6,Yes,2,140884
+23,5,High School,Healthcare,Hyderabad,7.0,7,42.6,Yes,3,82606
+64,44,High School,Healthcare,Pune,7.0,4,42.7,Yes,0,142712
+35,15,Bachelor,IT,Mumbai,1.0,3,48.4,No,2,76623
+62,39,High School,Healthcare,Delhi,7.0,7,49.3,No,4,138504
+49,30,Master,Healthcare,Mumbai,3.0,3,49.2,Yes,4,145905
+28,7,Master,Finance,Delhi,9.0,5,37.7,No,1,95832
+62,40,Master,Healthcare,Mumbai,2.0,4,49.3,Yes,4,137516
+35,14,Bachelor,Finance,Delhi,7.0,5,50.2,Yes,2,114303
+33,11,High School,Finance,Mumbai,6.0,3,50.0,Yes,1,99785
+43,25,Master,Manufacturing,Bengaluru,8.0,2,33.5,Yes,4,133674
+41,22,High School,Retail,Hyderabad,5.0,3,37.8,Yes,1,70752
+55,30,Bachelor,Retail,Mumbai,4.0,5,49.4,No,1,96848
+20,0,Bachelor,IT,Mumbai,6.0,3,35.6,No,3,53072
+53,35,Bachelor,Retail,Mumbai,10.0,4,44.3,Yes,5,119076
+49,26,Bachelor,Retail,Hyderabad,6.0,6,50.5,Yes,2,86951
+54,33,Bachelor,Healthcare,Mumbai,1.0,2,29.6,Yes,3,107453
+59,36,Bachelor,Healthcare,Pune,1.0,3,46.1,Yes,1,67497
+55,35,High School,Finance,Pune,9.0,2,29.8,No,2,167983
+21,3,Master,Finance,Hyderabad,10.0,5,42.9,Yes,5,86745
+57,35,Bachelor,Retail,Bengaluru,7.0,8,38.8,No,3,138180
+57,39,PhD,Healthcare,Pune,6.0,4,42.7,No,3,163949
+29,8,Bachelor,Healthcare,Pune,7.0,3,,Yes,4,60853
+18,0,PhD,Healthcare,Mumbai,8.0,6,37.3,Yes,1,59135
+60,35,Bachelor,Retail,Mumbai,,2,39.6,Yes,2,144076
+39,19,High School,Retail,Mumbai,9.0,4,34.1,No,1,83318
+32,14,High School,Healthcare,Delhi,3.0,2,45.6,Yes,4,74469
+56,31,High School,Finance,Hyderabad,8.0,6,49.6,No,3,143403
+30,9,High School,IT,Pune,,3,33.4,Yes,0,68438
+37,19,Bachelor,IT,Pune,,5,43.2,No,3,75048
+47,29,Bachelor,Finance,Mumbai,10.0,2,40.2,Yes,2,167101
+59,41,Bachelor,Healthcare,Bengaluru,2.0,4,,Yes,1,156319
+65,39,Master,Healthcare,Delhi,7.0,3,47.3,Yes,2,168434
+54,29,Bachelor,Manufacturing,Hyderabad,3.0,4,41.4,Yes,3,92476
+67,41,Bachelor,IT,Hyderabad,7.0,2,48.5,No,1,132951
+57,37,Master,Healthcare,Mumbai,9.0,5,51.9,No,1,183731
+56,37,Master,Finance,Pune,9.0,5,39.9,Yes,1,144477
+34,15,Master,Retail,Delhi,4.0,4,42.7,No,3,73579
+58,40,High School,Finance,Hyderabad,6.0,1,,No,1,138371
+43,18,Bachelor,Retail,Delhi,4.0,3,38.8,No,1,62562
+36,17,Bachelor,Finance,Delhi,1.0,1,62.1,No,0,105956
+50,31,Bachelor,IT,Mumbai,10.0,4,47.0,No,3,157299
+56,32,Bachelor,Retail,Bengaluru,7.0,4,38.3,No,0,73228
+23,4,High School,Retail,Pune,7.0,2,40.5,No,4,66303
+54,36,Bachelor,Retail,Bengaluru,6.0,1,33.4,No,1,129850
+60,41,High School,Finance,Delhi,2.0,4,43.4,No,2,144141
+32,7,Bachelor,IT,Pune,5.0,5,40.3,Yes,6,68792
+37,11,Bachelor,Manufacturing,Hyderabad,7.0,1,36.6,Yes,2,62923
+31,5,Master,Healthcare,Pune,3.0,4,42.2,Yes,1,42355
+42,23,Master,Retail,Hyderabad,6.0,1,47.0,Yes,1,95736
+55,35,High School,Manufacturing,Pune,5.0,3,53.2,Yes,2,114998
+42,21,Master,Finance,Mumbai,2.0,7,46.3,Yes,2,147725
+20,0,Bachelor,Manufacturing,Delhi,2.0,2,58.9,No,5,78762
+64,44,High School,Healthcare,Pune,6.0,3,48.7,Yes,3,107598
+34,10,Master,Healthcare,Pune,2.0,1,41.6,Yes,3,49434
+50,26,Bachelor,Healthcare,Mumbai,1.0,5,43.7,No,1,93099
+62,36,Bachelor,Manufacturing,Hyderabad,10.0,3,30.4,Yes,3,148327
+61,37,Master,IT,Mumbai,1.0,4,46.2,No,0,73603
+30,4,Bachelor,IT,Mumbai,5.0,5,40.8,Yes,1,46116
+65,45,Bachelor,Manufacturing,Delhi,8.0,6,48.2,No,1,170890
+53,29,Master,IT,Bengaluru,7.0,2,29.3,Yes,3,129977
+54,34,Bachelor,Manufacturing,Pune,8.0,4,48.9,No,1,128141
+26,4,Master,Manufacturing,Delhi,3.0,1,42.1,Yes,1,47443
+57,33,Bachelor,Manufacturing,Pune,8.0,3,46.8,No,2,117714
+55,35,Master,Finance,Hyderabad,4.0,6,34.6,No,2,144052
+20,0,High School,Finance,Bengaluru,7.0,5,25.0,Yes,0,75594
+22,0,Bachelor,Healthcare,Mumbai,2.0,7,29.4,No,2,48081
+24,2,Master,IT,Mumbai,7.0,3,52.7,Yes,3,90395
+34,16,Bachelor,IT,Bengaluru,5.0,3,35.4,No,2,102626
+61,36,Master,Manufacturing,Hyderabad,8.0,3,45.6,Yes,1,143148
+56,33,Master,Manufacturing,Bengaluru,6.0,7,46.7,No,4,114385
+49,28,PhD,IT,Pune,4.0,2,49.9,Yes,4,112466
+19,1,Bachelor,IT,Delhi,7.0,3,29.8,Yes,3,67465
+19,0,Master,Healthcare,Pune,6.0,3,48.4,No,4,36072
+23,4,Bachelor,Retail,Mumbai,4.0,3,41.5,Yes,1,59195
+25,2,Bachelor,Manufacturing,Hyderabad,4.0,2,40.7,Yes,5,43825
+24,6,Bachelor,Manufacturing,Pune,6.0,8,50.1,No,3,70367
+39,21,Bachelor,Finance,Hyderabad,10.0,9,48.9,No,3,142060
+25,2,Bachelor,Retail,Mumbai,4.0,4,37.1,Yes,1,38697
+33,15,High School,Healthcare,Pune,7.0,1,43.8,No,2,82878
+65,45,Bachelor,Manufacturing,Pune,8.0,2,32.0,No,4,167195
+42,18,Bachelor,Retail,Mumbai,4.0,7,32.6,No,1,84485
+67,43,,Retail,Hyderabad,5.0,3,29.9,Yes,0,197215
+54,36,Master,Manufacturing,Bengaluru,7.0,3,34.2,No,1,138279
+41,22,Bachelor,Manufacturing,Delhi,2.0,2,48.7,Yes,4,77883
+53,34,Bachelor,Finance,Pune,8.0,4,47.3,Yes,1,131403
+56,38,High School,IT,Delhi,2.0,5,46.2,No,2,105455
+18,0,Master,Finance,Delhi,2.0,1,61.0,Yes,2,87077
+52,29,Bachelor,Finance,Mumbai,2.0,6,35.6,No,4,72744
+50,29,Bachelor,Manufacturing,Hyderabad,6.0,6,43.6,Yes,3,118416
+37,16,High School,Manufacturing,Bengaluru,2.0,3,38.2,Yes,3,63114
+43,21,Bachelor,Manufacturing,Hyderabad,4.0,4,50.6,Yes,1,85789
+65,44,Bachelor,Finance,Mumbai,5.0,6,51.3,Yes,3,166961
+43,21,,Healthcare,Bengaluru,7.0,2,38.5,Yes,4,85346
+48,29,High School,IT,Hyderabad,1.0,2,38.7,No,1,77863
+30,9,Bachelor,Manufacturing,Mumbai,8.0,5,38.4,Yes,4,91935
+61,43,Master,Healthcare,Hyderabad,7.0,8,52.1,Yes,3,199820
+59,35,Bachelor,IT,Delhi,4.0,5,30.6,Yes,1,114759
+59,39,Master,IT,Mumbai,5.0,4,42.2,Yes,0,128387
+50,24,,Healthcare,Mumbai,3.0,5,32.0,Yes,0,124002
+32,9,Master,Finance,Bengaluru,7.0,3,41.2,No,1,85899
+28,7,Bachelor,Retail,Pune,4.0,3,49.7,No,2,75536
+40,14,Master,IT,Delhi,2.0,9,34.9,Yes,0,87842
+42,19,High School,IT,Delhi,3.0,7,56.8,Yes,4,115439
+28,5,Master,Retail,Delhi,5.0,4,25.0,No,0,68266
+61,37,Master,Manufacturing,Delhi,8.0,4,39.2,No,3,170943
+20,0,Bachelor,Manufacturing,Pune,6.0,4,43.3,Yes,2,54327
+18,0,Bachelor,Healthcare,Hyderabad,10.0,3,56.0,No,1,58772
+31,5,Master,Healthcare,Bengaluru,3.0,6,46.0,Yes,1,49276
+57,32,High School,Manufacturing,Bengaluru,6.0,3,38.5,Yes,1,103778
+51,32,Master,Finance,Hyderabad,3.0,1,43.6,No,2,139116
+29,6,High School,Manufacturing,Hyderabad,6.0,3,40.5,No,1,41456
+40,15,Bachelor,Retail,Hyderabad,4.0,2,38.3,No,0,65979
+35,13,High School,Healthcare,Hyderabad,9.0,5,38.7,Yes,2,98064
+20,0,Master,Finance,Mumbai,2.0,7,38.3,Yes,1,70028
+39,19,Master,IT,Hyderabad,4.0,3,36.2,Yes,4,56721
+25,2,PhD,IT,Delhi,9.0,4,38.0,No,1,79609
+50,31,Bachelor,Retail,Bengaluru,7.0,7,43.3,No,4,107524
+31,6,Master,IT,Bengaluru,9.0,4,52.8,No,0,101019
+24,0,Bachelor,Finance,Mumbai,9.0,4,37.8,No,0,80222
+36,16,Master,Finance,Bengaluru,9.0,6,34.1,No,3,120114
+38,17,Master,Retail,Pune,5.0,1,38.0,No,1,75871
+53,31,Master,Finance,Hyderabad,6.0,3,39.1,No,2,104383
+57,31,Master,Manufacturing,Hyderabad,7.0,5,55.9,Yes,3,159217
+60,39,Bachelor,Finance,Hyderabad,2.0,11,47.2,No,2,113886
+52,26,Master,IT,Bengaluru,2.0,2,42.2,Yes,1,120062
+63,44,Bachelor,Finance,Mumbai,3.0,7,56.3,Yes,2,141906
+53,31,PhD,Retail,Mumbai,4.0,7,48.7,No,2,119957
+67,44,PhD,Healthcare,Delhi,5.0,7,41.3,No,0,144981
+37,12,Master,Finance,Hyderabad,5.0,1,29.6,No,4,108444
+48,22,Bachelor,Retail,Pune,1.0,3,57.5,No,3,84830
+47,28,Master,Retail,Bengaluru,6.0,5,30.5,No,7,130862
+19,0,Bachelor,Finance,Hyderabad,1.0,4,49.2,No,2,52424
+22,0,Master,Finance,Bengaluru,6.0,3,32.6,No,5,97435
+62,43,Bachelor,IT,Pune,9.0,5,37.1,Yes,2,155343
+41,16,Bachelor,Finance,Hyderabad,6.0,6,31.0,Yes,2,82201
+48,30,High School,Finance,Pune,4.0,8,29.9,No,2,144331
+56,34,Bachelor,Retail,Pune,4.0,4,26.7,Yes,2,103603
+33,9,Master,Manufacturing,Bengaluru,5.0,3,50.5,No,3,106502
+45,23,Master,Retail,Bengaluru,5.0,1,50.0,Yes,0,93151
+44,23,Bachelor,IT,Bengaluru,10.0,3,44.6,Yes,1,146568
+39,21,Bachelor,IT,Pune,7.0,5,42.5,Yes,2,127269
+57,35,Master,Retail,Pune,8.0,0,26.6,Yes,0,134363
+21,1,Bachelor,Retail,Delhi,10.0,6,43.3,Yes,4,96705
+45,22,Bachelor,Retail,Mumbai,4.0,3,52.0,Yes,3,94682
+34,12,Bachelor,IT,Pune,7.0,3,47.3,Yes,2,68544
+29,10,Bachelor,Healthcare,Delhi,2.0,2,40.1,No,0,47310
+48,24,Bachelor,Healthcare,Mumbai,6.0,3,50.2,Yes,3,99368
+55,35,Bachelor,Healthcare,Hyderabad,6.0,5,51.5,Yes,2,118561
+34,16,Bachelor,Manufacturing,Hyderabad,3.0,3,36.0,No,4,48886
+49,30,Bachelor,Retail,Bengaluru,3.0,3,38.5,No,1,86676
+60,38,High School,IT,Delhi,10.0,1,46.9,Yes,4,170593
+24,0,Bachelor,IT,Bengaluru,4.0,4,50.5,No,0,75418
+36,17,Bachelor,Finance,Delhi,7.0,5,52.7,No,2,99477
+62,43,Bachelor,Finance,Hyderabad,1.0,2,52.0,Yes,2,111798
+29,9,Bachelor,Retail,Bengaluru,1.0,3,46.0,No,1,41398
+46,21,Master,Retail,Pune,5.0,5,50.2,No,0,68054
+43,21,Bachelor,Retail,Pune,1.0,5,48.8,Yes,2,50671
+33,14,Bachelor,Manufacturing,Delhi,10.0,3,39.8,No,1,102884
+18,0,Master,Finance,Delhi,6.0,3,45.9,No,3,86786
+54,36,High School,Finance,Pune,7.0,3,,Yes,1,120104
+50,26,Master,Retail,Delhi,2.0,5,35.5,Yes,2,60385
+46,25,Master,IT,Delhi,8.0,5,30.5,No,3,124796
+23,0,Bachelor,Finance,Delhi,10.0,3,35.6,No,0,68931
+60,35,High School,Healthcare,Bengaluru,10.0,8,46.0,Yes,4,169012
+62,37,Master,Retail,Delhi,8.0,5,41.6,No,3,160890
+57,34,Master,IT,Mumbai,1.0,1,25.0,No,1,142776
+57,37,High School,IT,Delhi,8.0,8,47.5,Yes,2,195610
+35,9,Bachelor,Finance,Hyderabad,4.0,2,45.9,Yes,0,49548
+50,26,Master,IT,Mumbai,9.0,5,31.2,Yes,1,141313
+49,31,Bachelor,Healthcare,Mumbai,3.0,3,50.7,Yes,1,96929
+19,0,High School,Retail,Pune,6.0,5,51.4,Yes,0,24062
+66,45,Bachelor,IT,Hyderabad,2.0,3,49.4,No,2,106574
+19,0,High School,Healthcare,Hyderabad,9.0,6,32.5,No,2,27447
+30,9,Bachelor,Finance,Hyderabad,2.0,5,42.3,Yes,0,39395
+21,0,Bachelor,IT,Mumbai,3.0,2,41.6,Yes,2,61177
+41,18,Bachelor,Retail,Delhi,3.0,8,40.3,Yes,3,75309
+47,27,Bachelor,IT,Hyderabad,5.0,4,33.7,No,2,123626
+32,12,Master,Manufacturing,Bengaluru,5.0,6,41.9,No,5,100104
+22,3,High School,Finance,Hyderabad,3.0,7,42.8,No,2,54497
+55,35,Bachelor,IT,Pune,9.0,2,36.4,No,3,176583
+48,29,High School,Manufacturing,Mumbai,1.0,2,29.5,Yes,3,97716
+22,0,Master,IT,Hyderabad,5.0,6,36.9,Yes,1,51048
+23,0,Bachelor,Manufacturing,Mumbai,7.0,3,52.4,No,2,50654
+26,0,Master,Retail,Pune,1.0,3,44.0,No,5,51718
+49,28,Master,Retail,Mumbai,7.0,6,37.6,No,1,143196
+44,19,Bachelor,Healthcare,Pune,7.0,5,46.8,Yes,2,98603
+31,12,PhD,Finance,Pune,5.0,1,51.9,Yes,2,81891
+25,3,Bachelor,IT,Mumbai,6.0,4,49.7,Yes,3,62181
+18,0,Bachelor,Manufacturing,Mumbai,5.0,1,32.6,No,3,57675
+56,32,Bachelor,Manufacturing,Bengaluru,2.0,5,41.1,Yes,1,94757
+46,23,Bachelor,Retail,Delhi,10.0,5,47.5,Yes,0,124015
+46,20,,Finance,Bengaluru,9.0,3,35.4,No,2,140921
+57,34,Bachelor,Retail,Mumbai,9.0,3,51.2,Yes,1,165473
+26,4,High School,Healthcare,Pune,9.0,4,42.6,Yes,2,51226
+21,0,Bachelor,Finance,Bengaluru,2.0,2,38.9,No,5,74733
+39,14,Bachelor,Retail,Hyderabad,9.0,6,36.0,No,3,81952
+42,18,Bachelor,Retail,Delhi,4.0,6,29.9,No,0,43901
+25,4,Bachelor,Healthcare,Bengaluru,3.0,2,34.5,No,0,29892
+37,12,High School,Healthcare,Bengaluru,4.0,1,38.0,No,3,64495
+20,0,PhD,IT,Mumbai,2.0,6,50.8,No,1,94909
+35,10,Bachelor,Manufacturing,Hyderabad,8.0,3,53.1,No,2,83605
+45,21,Bachelor,Healthcare,Mumbai,5.0,3,40.6,Yes,1,110573
+34,8,Bachelor,Manufacturing,Delhi,3.0,1,43.8,Yes,2,52055
+59,35,High School,Healthcare,Pune,3.0,6,60.6,Yes,3,119810
+30,5,,IT,Mumbai,3.0,5,,Yes,1,78155
+61,38,PhD,Healthcare,Hyderabad,1.0,5,41.8,No,2,139863
+23,0,Master,Healthcare,Pune,4.0,2,29.9,Yes,4,39684
+34,13,High School,Retail,Mumbai,9.0,4,42.1,No,3,85010
+38,16,Bachelor,Healthcare,Delhi,4.0,8,43.9,No,2,90734
+45,27,Master,Retail,Hyderabad,8.0,6,51.4,No,3,109234
+55,31,Master,Finance,Hyderabad,8.0,2,54.8,Yes,2,141354
+49,27,Bachelor,Healthcare,Delhi,10.0,4,33.2,No,4,131840
+44,21,,Manufacturing,Delhi,9.0,5,32.3,No,1,148032
+61,43,Bachelor,Retail,Hyderabad,6.0,3,38.1,No,2,102854
+65,45,Master,Manufacturing,Delhi,9.0,6,45.4,Yes,2,199534
+21,0,PhD,Retail,Bengaluru,2.0,4,37.3,Yes,2,57230
+27,7,Bachelor,Finance,Pune,6.0,3,65.2,Yes,1,112231
+61,40,Master,Retail,Pune,4.0,6,51.7,No,0,140099
+48,28,Master,Finance,Delhi,1.0,4,43.2,Yes,4,87329
+35,14,Bachelor,Finance,Pune,1.0,3,32.8,Yes,3,53675
+39,19,Bachelor,Finance,Pune,5.0,4,32.8,Yes,3,92208
+58,36,Bachelor,Finance,Delhi,6.0,2,48.0,Yes,3,115106
+47,24,PhD,Finance,Mumbai,5.0,2,38.1,Yes,2,112870
+38,13,High School,Finance,Pune,10.0,6,43.9,No,0,123929
+42,22,Bachelor,IT,Bengaluru,1.0,8,39.8,Yes,5,85737
+48,23,Master,Retail,Delhi,10.0,9,37.6,Yes,0,143057
+47,25,Bachelor,Manufacturing,Bengaluru,10.0,2,56.4,No,2,138302
+65,45,High School,Finance,Delhi,3.0,7,57.8,No,1,152393
+40,16,Master,Healthcare,Hyderabad,9.0,4,,No,0,129083
+32,13,Bachelor,Retail,Pune,1.0,5,35.4,Yes,2,62432
+48,23,Bachelor,IT,Pune,3.0,3,56.6,Yes,1,101632
+51,26,Bachelor,Finance,Hyderabad,6.0,4,46.7,No,2,141738
+39,16,Bachelor,Manufacturing,Delhi,7.0,5,47.8,No,2,90742
+52,34,Bachelor,Healthcare,Mumbai,7.0,7,52.6,Yes,6,167104
+18,0,Bachelor,Finance,Bengaluru,5.0,3,48.3,Yes,0,54037
+32,14,PhD,IT,Delhi,2.0,2,45.7,No,4,77882
+27,1,Bachelor,Retail,Mumbai,7.0,8,37.0,No,2,74884
+34,8,Bachelor,Healthcare,Pune,1.0,6,33.4,No,1,58220
+66,45,High School,Finance,Delhi,4.0,3,48.3,Yes,1,149118
+27,1,Bachelor,Retail,Pune,5.0,2,57.8,Yes,1,57862
+42,19,Master,Retail,Delhi,10.0,4,,No,0,130914
+37,13,Bachelor,Finance,Bengaluru,10.0,7,25.0,No,4,127291
+64,45,Bachelor,Retail,Mumbai,8.0,4,35.1,No,1,156215
+48,23,Bachelor,IT,Delhi,2.0,5,40.8,No,1,79530
+59,33,Bachelor,Manufacturing,Delhi,7.0,4,43.0,Yes,2,143334
+30,7,Bachelor,Manufacturing,Pune,2.0,7,37.9,Yes,4,40373
+31,13,Master,IT,Bengaluru,3.0,2,37.7,Yes,1,93233
+51,25,High School,Retail,Mumbai,6.0,3,40.0,No,3,98685
+33,13,High School,Finance,Mumbai,3.0,3,39.2,Yes,2,66996
+46,22,Bachelor,Retail,Mumbai,1.0,1,36.9,Yes,2,63098
+26,8,Master,Retail,Bengaluru,1.0,2,57.7,Yes,2,76127
+66,42,Master,Manufacturing,Pune,8.0,1,44.0,No,3,201134
+36,15,Master,Retail,Mumbai,4.0,5,34.5,No,1,71472
+59,35,Bachelor,Finance,Delhi,2.0,6,38.7,Yes,3,107500
+63,44,Bachelor,Manufacturing,Mumbai,6.0,2,47.4,No,1,164605
+27,8,Bachelor,IT,Mumbai,4.0,1,53.1,No,5,81903
+62,44,High School,Manufacturing,Delhi,8.0,4,33.7,Yes,1,172638
+38,12,Master,IT,Mumbai,2.0,5,47.4,No,4,78181
+34,8,Bachelor,IT,Mumbai,2.0,2,38.5,No,3,86399
+21,0,Bachelor,Healthcare,Mumbai,2.0,4,50.8,Yes,2,79310
+36,13,High School,Finance,Bengaluru,10.0,1,46.4,No,1,135007
+37,17,PhD,Healthcare,Pune,2.0,1,39.7,No,2,81791
+19,1,PhD,Retail,Mumbai,9.0,4,42.0,Yes,4,73373
+62,42,High School,Finance,Delhi,3.0,3,44.9,Yes,2,115144
+62,43,Bachelor,Retail,Bengaluru,2.0,6,45.3,No,4,90777
+29,8,Bachelor,Finance,Mumbai,9.0,4,,No,4,105093
+65,39,Bachelor,Retail,Hyderabad,9.0,2,43.8,Yes,4,119259
+51,27,Master,Manufacturing,Delhi,10.0,6,59.3,Yes,3,156989
+26,7,Bachelor,Manufacturing,Hyderabad,6.0,1,35.2,Yes,3,61671
+25,0,PhD,Retail,Mumbai,9.0,7,39.0,Yes,1,78149
+36,16,Bachelor,Healthcare,Hyderabad,5.0,3,37.8,No,1,80361
+23,3,Bachelor,Retail,Bengaluru,7.0,3,37.8,No,4,53823
+30,5,Bachelor,Retail,Hyderabad,7.0,3,43.4,No,1,39995
+57,36,Master,Finance,Hyderabad,8.0,0,47.5,No,3,200111
+27,2,Bachelor,Manufacturing,Mumbai,10.0,5,45.4,Yes,3,79705
+20,1,Bachelor,Healthcare,Hyderabad,2.0,6,49.8,Yes,4,61167
+33,9,Bachelor,IT,Delhi,8.0,4,45.5,No,1,86334
+28,10,Master,Retail,Hyderabad,2.0,1,42.4,No,4,80646
+49,26,Bachelor,Healthcare,Pune,7.0,2,44.4,No,3,107282
+51,33,Bachelor,IT,Hyderabad,2.0,5,51.5,Yes,3,99629
+52,31,Bachelor,Healthcare,Mumbai,6.0,1,45.1,Yes,1,109345
+45,24,High School,IT,Bengaluru,8.0,4,50.6,No,1,123807
+61,41,Master,Manufacturing,Mumbai,10.0,5,52.8,No,3,203436
+59,39,High School,Retail,Hyderabad,2.0,2,45.8,Yes,0,112322
+51,28,Bachelor,IT,Delhi,5.0,4,30.1,No,3,105181
+52,33,Bachelor,Finance,Delhi,2.0,7,38.2,Yes,4,112066
+65,43,Bachelor,IT,Delhi,5.0,6,36.5,No,2,144262
+33,9,Bachelor,Manufacturing,Pune,8.0,3,42.0,Yes,3,55287
+57,34,Bachelor,Finance,Mumbai,8.0,3,45.2,No,2,104267
+64,40,Bachelor,Finance,Pune,2.0,1,36.3,Yes,2,121508
+65,45,Master,Manufacturing,Hyderabad,9.0,3,37.0,No,1,176383
+51,25,Master,Retail,Hyderabad,1.0,2,52.7,Yes,3,92212
+61,35,Master,Manufacturing,Mumbai,3.0,1,43.2,No,1,118355
+48,25,Bachelor,Finance,Pune,8.0,3,31.7,Yes,2,141006
+58,32,Bachelor,Finance,Bengaluru,9.0,1,,No,1,159502
+18,0,Bachelor,Manufacturing,Mumbai,10.0,5,44.0,Yes,5,44771
+56,38,High School,Manufacturing,Hyderabad,10.0,3,36.2,No,5,128503
+62,42,Bachelor,Manufacturing,Delhi,7.0,3,50.6,Yes,3,155026
+29,8,Bachelor,Finance,Mumbai,1.0,3,38.3,No,4,44736
+18,0,Bachelor,IT,Hyderabad,8.0,5,39.4,No,1,43286
+62,41,Master,Retail,Bengaluru,2.0,5,38.1,Yes,1,86676
+22,3,Master,Finance,Hyderabad,3.0,8,32.7,No,3,77407
+67,43,Bachelor,Healthcare,Hyderabad,,2,40.7,No,3,184407
+20,0,Bachelor,Finance,Bengaluru,5.0,2,35.3,Yes,2,83003
+51,26,Bachelor,Retail,Mumbai,4.0,6,40.5,Yes,1,111790
+29,9,High School,IT,Pune,1.0,7,34.0,No,2,49670
+60,34,Master,Finance,Hyderabad,7.0,2,33.6,Yes,0,144669
+27,1,High School,Manufacturing,Delhi,9.0,2,48.6,No,2,64677
+30,9,High School,IT,Mumbai,7.0,2,33.0,No,2,70766
+19,0,PhD,IT,Mumbai,2.0,4,60.6,No,1,89920
+29,4,Master,IT,Pune,7.0,3,52.3,No,1,94017
+41,16,High School,IT,Hyderabad,2.0,2,38.8,No,1,60490
+33,15,Bachelor,Manufacturing,Mumbai,2.0,2,41.0,Yes,1,55351
+23,1,Bachelor,Retail,Mumbai,6.0,3,38.8,Yes,2,41169
+40,16,Bachelor,Healthcare,Bengaluru,2.0,5,33.0,No,1,92962
+50,27,Bachelor,Manufacturing,Pune,7.0,4,50.1,Yes,9,154472
+48,28,Bachelor,Healthcare,Pune,7.0,4,30.2,Yes,2,105631
+57,31,High School,Manufacturing,Pune,8.0,7,36.6,No,2,135110
+51,27,Bachelor,Retail,Mumbai,7.0,5,44.5,No,0,70311
+30,11,Bachelor,Retail,Mumbai,9.0,2,37.6,No,4,112604
+57,33,Master,Retail,Mumbai,4.0,2,29.7,Yes,4,129326
+51,31,High School,IT,Hyderabad,3.0,4,43.6,No,1,84504
+47,21,Bachelor,Finance,Pune,4.0,1,42.2,Yes,2,128604
+64,44,Master,Finance,Delhi,7.0,6,44.2,Yes,2,197954
+54,29,Master,IT,Delhi,10.0,5,,Yes,1,160754
+66,44,,Healthcare,Bengaluru,7.0,5,31.9,No,2,188971
+41,18,Master,Finance,Delhi,7.0,6,54.7,Yes,1,101373
+18,0,Master,Manufacturing,Hyderabad,1.0,2,,Yes,2,50727
+54,36,Bachelor,Manufacturing,Mumbai,10.0,0,50.1,No,2,147603
+28,9,Bachelor,Retail,Mumbai,7.0,2,55.0,Yes,4,90147
+67,45,Master,Finance,Hyderabad,2.0,6,38.6,No,3,121969
+52,27,High School,IT,Bengaluru,2.0,3,43.2,No,3,69343
+41,16,High School,Manufacturing,Hyderabad,9.0,3,45.3,Yes,2,80402
+32,12,Bachelor,Healthcare,Pune,6.0,6,50.8,No,0,91008
+58,37,Bachelor,Manufacturing,Mumbai,9.0,6,25.0,No,1,198873
+52,32,Master,IT,Hyderabad,9.0,1,55.0,Yes,2,167540
+43,17,High School,IT,Pune,1.0,5,36.9,Yes,2,56018
+52,29,High School,Healthcare,Delhi,2.0,2,31.1,Yes,5,89678
+39,14,High School,Healthcare,Bengaluru,7.0,8,48.2,Yes,0,98410
+46,27,Bachelor,Retail,Hyderabad,2.0,3,41.5,No,3,63738
+39,16,Bachelor,Healthcare,Pune,8.0,3,43.9,No,5,88190
+33,9,High School,IT,Pune,5.0,5,41.6,Yes,1,50947
+56,32,Bachelor,Manufacturing,Pune,6.0,2,47.7,Yes,4,131332
+39,16,PhD,IT,Bengaluru,7.0,5,40.4,Yes,8,96325
+44,24,Master,Healthcare,Pune,8.0,3,36.1,No,2,110802
+24,0,Bachelor,Manufacturing,Bengaluru,3.0,2,36.7,No,1,25980
+57,31,High School,Manufacturing,Hyderabad,6.0,5,42.0,Yes,4,70688
+45,25,Bachelor,Manufacturing,Bengaluru,8.0,1,53.3,Yes,0,121751
+35,17,Master,Manufacturing,Delhi,9.0,5,51.2,Yes,2,138542
+32,7,High School,Finance,Bengaluru,3.0,6,56.9,No,6,104463
+41,17,High School,Healthcare,Mumbai,4.0,3,,Yes,1,58446
+19,0,Bachelor,Retail,Delhi,7.0,10,40.1,No,0,46670
+58,35,Bachelor,Manufacturing,Pune,1.0,4,37.5,No,2,91875
+49,25,Master,Manufacturing,Pune,9.0,3,37.6,No,0,108868
+49,29,High School,Retail,Mumbai,4.0,3,41.7,Yes,3,117675
+44,22,Bachelor,Finance,Hyderabad,9.0,7,30.8,No,6,161831
+36,10,Bachelor,Manufacturing,Delhi,6.0,2,46.4,Yes,1,82392
+48,23,Bachelor,Finance,Mumbai,6.0,6,33.4,No,3,127537
+19,0,Bachelor,Retail,Delhi,2.0,7,56.7,No,1,58109
+35,9,High School,IT,Hyderabad,9.0,10,,No,5,82447
+67,45,PhD,Retail,Delhi,6.0,4,48.3,No,6,143828
+51,31,Bachelor,Finance,Pune,6.0,4,36.5,No,2,95105
+57,37,Master,Healthcare,Pune,4.0,5,51.0,No,4,141695
+43,20,PhD,IT,Delhi,5.0,3,43.3,Yes,1,90951
+38,18,PhD,Retail,Bengaluru,5.0,9,40.4,Yes,1,77248
+63,44,Bachelor,Finance,Pune,4.0,4,53.6,No,3,168568
+51,26,Bachelor,Healthcare,Bengaluru,9.0,3,39.6,No,1,133489
+44,25,High School,Healthcare,Bengaluru,3.0,2,28.3,Yes,5,110282
+51,28,High School,Finance,Delhi,6.0,8,41.9,No,0,101862
+22,4,High School,Manufacturing,Bengaluru,3.0,4,51.8,Yes,1,67653
+18,0,Bachelor,IT,Bengaluru,8.0,3,31.3,No,1,75835
+24,0,Master,Finance,Pune,5.0,5,48.3,No,1,85899
+45,24,Master,Healthcare,Delhi,8.0,5,58.7,Yes,0,134508
+60,40,Bachelor,Finance,Bengaluru,2.0,3,45.3,Yes,2,139413
+46,24,Bachelor,Healthcare,Delhi,7.0,7,43.6,No,2,88702
+19,0,Master,Manufacturing,Delhi,10.0,4,31.6,No,3,102514
+27,3,High School,Finance,Hyderabad,3.0,6,36.3,Yes,1,38485
+30,4,High School,Manufacturing,Hyderabad,2.0,6,44.0,Yes,2,49440
+61,41,Bachelor,Healthcare,Bengaluru,2.0,3,41.1,No,7,130765
+55,32,Bachelor,Retail,Pune,3.0,4,34.8,No,3,101832
+18,0,Bachelor,Finance,Bengaluru,2.0,2,40.1,No,1,48195
+25,5,Master,Healthcare,Mumbai,4.0,5,47.0,Yes,1,81977
+24,0,Bachelor,Retail,Bengaluru,2.0,1,40.6,No,1,39359
+63,44,High School,Retail,Pune,1.0,5,50.7,No,1,124106
+56,31,Bachelor,IT,Bengaluru,5.0,3,43.2,Yes,2,121571
+53,27,Bachelor,Manufacturing,Hyderabad,1.0,2,51.4,Yes,3,82784
+32,8,Bachelor,IT,Mumbai,4.0,2,42.0,Yes,0,62447
+51,27,Bachelor,Manufacturing,Mumbai,10.0,7,38.4,No,0,134595
+64,45,PhD,Retail,Bengaluru,8.0,4,36.3,No,2,192080
+63,42,High School,Healthcare,Delhi,8.0,8,26.0,Yes,3,192786
+61,42,Bachelor,Finance,Pune,2.0,4,36.7,Yes,1,89728
+54,36,Master,Finance,Delhi,10.0,3,29.5,Yes,2,169194
+21,0,Bachelor,Healthcare,Bengaluru,6.0,5,41.0,Yes,1,31684
+23,0,Bachelor,Manufacturing,Pune,6.0,2,50.2,Yes,5,50158
+39,21,Bachelor,Manufacturing,Delhi,9.0,2,53.0,Yes,3,130521
+43,21,Master,Finance,Pune,10.0,4,44.2,Yes,0,146160
+26,2,Bachelor,Healthcare,Hyderabad,6.0,2,25.0,No,4,58837
+20,2,Bachelor,Manufacturing,Pune,1.0,4,39.6,No,3,31437
+34,15,Master,Retail,Hyderabad,8.0,5,41.8,Yes,4,88571
+24,0,Bachelor,Manufacturing,Mumbai,5.0,7,43.2,No,2,42141
+55,33,Master,Healthcare,Mumbai,2.0,5,31.3,Yes,2,112814
+51,32,High School,Manufacturing,Hyderabad,7.0,6,44.9,Yes,1,104510
+35,17,Master,Finance,Bengaluru,1.0,3,53.0,Yes,2,101214
+62,36,Master,Manufacturing,Bengaluru,10.0,4,45.6,No,4,203134
+45,21,Bachelor,IT,Bengaluru,8.0,2,36.8,Yes,0,106650
+54,36,PhD,Healthcare,Pune,6.0,3,57.3,No,0,204918
+46,21,Master,Retail,Delhi,10.0,2,56.5,Yes,0,128451
+35,9,Bachelor,Healthcare,Hyderabad,2.0,4,44.0,Yes,0,48242
+65,39,Bachelor,Manufacturing,Delhi,4.0,4,45.6,Yes,3,100289
+53,31,PhD,Finance,Mumbai,5.0,3,40.8,No,2,117700
+44,22,Master,Retail,Delhi,7.0,6,36.0,No,1,101117
+60,37,Bachelor,Healthcare,Hyderabad,6.0,5,35.9,Yes,0,99077
+20,0,PhD,Finance,Mumbai,4.0,0,42.4,Yes,1,86308
+66,42,PhD,Healthcare,Bengaluru,9.0,5,38.4,No,0,198045
+44,20,Bachelor,Healthcare,Mumbai,1.0,2,47.3,Yes,2,82433
+19,0,High School,Finance,Hyderabad,9.0,6,51.5,No,3,84543
+35,16,Bachelor,Healthcare,Mumbai,2.0,4,38.9,No,4,73609
+52,27,Bachelor,Finance,Delhi,1.0,1,28.2,No,2,85406
+41,15,Bachelor,Retail,Mumbai,10.0,7,45.0,No,1,105429
+52,33,Master,IT,Delhi,4.0,2,42.4,Yes,0,112424
+49,26,Bachelor,Retail,Pune,7.0,5,45.6,Yes,2,74386
+31,5,Bachelor,Manufacturing,Hyderabad,1.0,7,47.0,Yes,0,50631
+57,35,Master,Finance,Hyderabad,5.0,4,56.5,Yes,0,148898
+66,44,Bachelor,IT,Pune,3.0,4,32.6,Yes,4,132013
+34,10,Master,Retail,Delhi,3.0,3,40.6,No,6,44568
+37,11,Master,Manufacturing,Pune,2.0,3,26.1,No,3,45323
+58,37,Master,Healthcare,Pune,6.0,2,32.9,No,1,128485
+35,12,Bachelor,Manufacturing,Bengaluru,5.0,5,40.5,No,4,57482
+56,36,Bachelor,IT,Hyderabad,4.0,4,40.2,Yes,2,125556
+18,0,High School,Healthcare,Pune,1.0,4,45.4,No,3,24842
+20,0,PhD,Finance,Mumbai,6.0,3,42.8,Yes,2,69265
+67,45,Bachelor,Healthcare,Mumbai,9.0,4,45.5,Yes,2,193771
+58,36,High School,Finance,Bengaluru,9.0,3,58.8,Yes,3,157702
+59,37,PhD,Finance,Bengaluru,1.0,7,41.0,Yes,1,126513
+26,1,Bachelor,IT,Hyderabad,6.0,6,29.6,No,2,59614
+46,28,Master,IT,Bengaluru,,4,53.9,Yes,1,106072
+40,18,Bachelor,Retail,Hyderabad,1.0,2,42.5,No,0,58379
+66,45,Bachelor,Healthcare,Hyderabad,4.0,6,50.2,No,1,126426
+34,9,Bachelor,Manufacturing,Delhi,10.0,4,39.9,No,0,68861
+30,8,High School,Finance,Bengaluru,8.0,7,37.7,Yes,0,88112
+27,1,Master,Retail,Pune,9.0,6,43.0,Yes,2,50119
+37,15,Bachelor,Finance,Hyderabad,9.0,2,51.6,No,2,114896
+35,16,High School,Healthcare,Mumbai,5.0,1,41.0,No,5,78806
+60,34,Bachelor,Healthcare,Delhi,2.0,6,39.6,Yes,2,48188
+30,11,Master,Finance,Mumbai,1.0,8,39.4,No,1,94606
+22,0,PhD,Healthcare,Bengaluru,6.0,8,45.4,Yes,4,72634
+60,40,Master,Manufacturing,Delhi,9.0,4,42.6,Yes,4,129885
+62,44,Master,Healthcare,Delhi,9.0,7,48.0,No,4,173194
+39,16,High School,IT,Hyderabad,10.0,4,30.2,Yes,1,121254
+50,26,Bachelor,Manufacturing,Bengaluru,4.0,2,37.2,No,3,89355
+57,37,High School,IT,Hyderabad,8.0,7,51.4,No,3,146594
+66,45,Bachelor,Retail,Hyderabad,7.0,5,45.1,No,3,129133
+67,45,Bachelor,Manufacturing,Hyderabad,8.0,2,43.6,No,2,157216
+36,10,Bachelor,IT,Pune,3.0,5,30.4,Yes,1,54773
+44,21,High School,Healthcare,Bengaluru,7.0,5,43.6,No,4,100301
+45,24,Master,Manufacturing,Delhi,7.0,3,40.9,No,2,116732
+63,43,Bachelor,Healthcare,Delhi,1.0,4,48.6,Yes,2,126028
+51,28,High School,Manufacturing,Bengaluru,2.0,3,36.8,Yes,0,88798
+37,11,High School,IT,Bengaluru,9.0,3,30.0,Yes,2,121396
+63,38,Bachelor,Manufacturing,Delhi,8.0,4,45.6,Yes,1,128801
+35,12,Master,Healthcare,Bengaluru,1.0,3,45.3,No,3,71085
+54,31,Master,Healthcare,Pune,7.0,4,59.9,Yes,1,165373
+62,40,Bachelor,Manufacturing,Hyderabad,9.0,2,48.6,Yes,0,145147
+39,20,Bachelor,IT,Hyderabad,5.0,6,38.7,No,2,83053
+50,26,Master,IT,Delhi,6.0,4,47.4,No,1,136646
+47,24,High School,Manufacturing,Bengaluru,10.0,7,42.5,Yes,2,126844
+31,9,High School,Manufacturing,Hyderabad,7.0,6,39.4,No,1,65353
+24,0,Bachelor,IT,Delhi,6.0,1,40.3,Yes,2,22800
+57,32,High School,IT,Bengaluru,7.0,4,25.7,Yes,0,139330
+39,14,Bachelor,Finance,Delhi,3.0,1,50.4,No,1,84152
+43,19,Bachelor,Finance,Delhi,7.0,3,45.1,No,2,93151
+35,11,Master,Healthcare,Bengaluru,4.0,6,46.7,Yes,1,69827
+53,33,Master,IT,Delhi,4.0,6,37.0,No,1,135841
+64,45,High School,Healthcare,Bengaluru,6.0,6,42.9,Yes,0,163857
+57,37,Master,Healthcare,Mumbai,7.0,4,34.6,Yes,1,146039
+30,12,Bachelor,Finance,Bengaluru,7.0,3,36.6,Yes,2,85776
+43,21,Master,Finance,Delhi,3.0,6,51.0,No,1,125591
+37,16,Master,Manufacturing,Mumbai,1.0,1,47.9,Yes,3,118197
+44,23,Bachelor,Retail,Delhi,1.0,5,33.4,No,5,94891
+26,8,High School,Finance,Hyderabad,8.0,2,42.9,No,1,61726
+55,32,PhD,Manufacturing,Pune,5.0,2,33.6,No,2,148526
+32,8,High School,IT,Mumbai,5.0,4,45.7,Yes,5,70793
+25,0,Bachelor,Manufacturing,Delhi,5.0,2,42.9,No,0,38290
+55,33,Master,IT,Mumbai,6.0,4,40.2,No,2,146144
+35,12,Bachelor,Healthcare,Delhi,5.0,1,49.5,Yes,2,86019
+21,3,Master,Retail,Hyderabad,5.0,5,45.2,Yes,4,69033
+50,30,Master,Manufacturing,Delhi,2.0,8,47.9,Yes,1,112580
+63,40,Master,Manufacturing,Mumbai,5.0,2,39.2,Yes,1,122658
+27,7,High School,Finance,Hyderabad,4.0,2,35.8,No,0,34296
+45,19,Master,Finance,Pune,1.0,6,36.6,Yes,1,92827
+38,12,High School,Finance,Delhi,3.0,5,39.9,Yes,1,54773
+67,44,Bachelor,Healthcare,Hyderabad,9.0,4,36.3,Yes,1,169565
+28,3,,IT,Delhi,7.0,0,40.4,Yes,3,51690
+27,9,High School,Healthcare,Bengaluru,1.0,3,40.8,Yes,1,60825
+54,36,Bachelor,Finance,Mumbai,1.0,7,40.4,Yes,1,74494
+64,45,Master,Healthcare,Mumbai,3.0,1,25.0,Yes,2,137336
+43,24,Bachelor,Retail,Mumbai,10.0,8,52.8,No,4,161570
+37,13,High School,Manufacturing,Pune,3.0,4,37.9,Yes,4,68563
+33,14,High School,Finance,Mumbai,9.0,4,35.5,Yes,4,117807
+37,17,High School,Finance,Delhi,8.0,4,51.3,Yes,2,106726
+52,32,PhD,Finance,Bengaluru,3.0,0,54.8,Yes,0,170593
+53,33,Master,IT,Hyderabad,6.0,10,46.5,Yes,2,125599
+55,31,PhD,Manufacturing,Pune,6.0,4,47.4,No,1,118497
+30,9,Bachelor,Retail,Pune,3.0,7,44.0,No,2,69305
+24,0,Master,Retail,Mumbai,5.0,8,31.5,Yes,0,59303
+57,35,Bachelor,Retail,Delhi,10.0,4,47.2,No,7,143189
+54,30,Bachelor,Healthcare,Mumbai,3.0,4,49.7,Yes,2,102786
+31,13,PhD,IT,Mumbai,7.0,6,42.0,Yes,4,97537
+29,7,Master,IT,Delhi,2.0,3,36.7,Yes,0,72923
+53,31,High School,IT,Pune,1.0,5,39.3,Yes,1,66809
+53,34,Master,Retail,Delhi,8.0,5,47.1,Yes,0,164577
+42,19,Bachelor,Finance,Pune,8.0,5,44.1,Yes,1,118051
+66,45,Bachelor,IT,Hyderabad,10.0,6,34.6,No,3,208322
+18,0,Bachelor,Manufacturing,Pune,3.0,1,48.5,Yes,1,28744
+23,5,Bachelor,Healthcare,Bengaluru,4.0,3,48.9,Yes,1,57582
+49,29,High School,Retail,Bengaluru,9.0,5,54.4,Yes,0,102960
+50,30,High School,Healthcare,Delhi,8.0,6,28.6,No,3,146120
+32,12,Master,Manufacturing,Delhi,8.0,7,40.0,Yes,1,75742
+32,11,Bachelor,Finance,Hyderabad,8.0,4,43.0,No,1,85122
+49,27,PhD,IT,Delhi,7.0,3,32.7,No,1,132130
+23,1,High School,Finance,Pune,8.0,3,40.4,Yes,1,62789
+44,24,Bachelor,Manufacturing,Pune,6.0,1,53.0,Yes,2,74449
